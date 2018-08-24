@@ -1,0 +1,1003 @@
+[
+    {"answers":1,"views":4,"votes":0,"question":"Forma correcta de ocultar un <input> en HTML usando javascript","tab":"active"},
+{"answers":3,"views":43,"votes":4,"question":"\u00bfC\u00f3mo puedo convertir un arreglo JSON en una List <T>?","tab":"active"},
+{"answers":1,"views":7,"votes":0,"question":"Mostrar input segun privilegios","tab":"active"},
+{"answers":0,"views":2,"votes":0,"question":"animar cambios encontrados en resultado de ajax angularjs","tab":"active"},
+{"answers":1,"views":30,"votes":0,"question":"\u00bf@foreach en laravel que vaya de 2 objetos en 2 objetos?","tab":"active"},
+{"answers":4,"views":583,"votes":0,"question":"Fondo que ocupe el ancho y alto de la pantalla","tab":"active"},
+{"answers":0,"views":5,"votes":0,"question":"\u00bfC\u00f3mo recuperar registros de una API rest con Angular 4?","tab":"active"},
+{"answers":0,"views":4,"votes":0,"question":"Error carga del men\u00fa responsive al abrir el navegador","tab":"active"},
+{"answers":0,"views":3,"votes":0,"question":"Atajo de teclado para un script ejecutable en ubuntu","tab":"active"},
+{"answers":2,"views":55,"votes":-1,"question":"\u00bfC\u00f3mo elevar a una potencia a toda una ecuacion?","tab":"active"},
+{"answers":0,"views":3,"votes":0,"question":"Dada una lista de n\u00fameros enteros no negativos y una suma objetivo, encuentre un par de n\u00fameros que sumen a la suma objetivo","tab":"active"},
+{"answers":1,"views":11,"votes":0,"question":"Guardar elemento DOM como IMG","tab":"active"},
+{"answers":2,"views":16,"votes":0,"question":"Ideas de como validar fechas y horas agendadas mediante solo input","tab":"active"},
+{"answers":2,"views":18,"votes":0,"question":"Como puedo evitar Registro Duplicado en MySQL?","tab":"active"},
+{"answers":1,"views":369,"votes":0,"question":"Realizar busqueda en DataGridView mediante textbox c++","tab":"active"},
+{"answers":1,"views":12,"votes":0,"question":"\u00bfForEach no funciona en javscript?","tab":"active"},
+{"answers":0,"views":8,"votes":0,"question":"Leer una direccion de memoria almacenada en un archivo de texto","tab":"active"},
+{"answers":1,"views":40,"votes":0,"question":"Operaciones con fechas","tab":"active"},
+{"answers":1,"views":24,"votes":0,"question":"Almacenar un objeto en un arreglo de string","tab":"active"},
+{"answers":0,"views":4,"votes":0,"question":"\u00bfEncender Flashlight con google vision?","tab":"active"},
+{"answers":1,"views":12,"votes":0,"question":"como redondear un jbutton en java?","tab":"active"},
+{"answers":0,"views":16,"votes":-1,"question":"\u00bfC\u00f3mo consumir una API rest en Angular 4?","tab":"active"},
+{"answers":0,"views":5,"votes":0,"question":"Como parsear Json con retrofit","tab":"active"},
+{"answers":1,"views":9,"votes":0,"question":"Como puedo desactivar la pantalla t\u00e1ctil en un m\u00e9todo","tab":"active"},
+{"answers":1,"views":472,"votes":0,"question":"Configuracion del web.Config <system.serviceModel>","tab":"active"},
+{"answers":1,"views":24,"votes":0,"question":"Existe alguna manera de notificarme a trav\u00e9s de correo electr\u00f3nico cuando un usuario nuevo se registra en mi app?","tab":"active"},
+{"answers":2,"views":137,"votes":6,"question":"\u00bfEs este c\u00f3digo seguro ante inyecci\u00f3n de c\u00f3digo?","tab":"active"},
+{"answers":1,"views":17,"votes":0,"question":"como filtrar un array que contiene arrays con el valor de un input search [en espera]","tab":"active"},
+{"answers":2,"views":146,"votes":0,"question":"Problema subir archivos ajax y php","tab":"active"},
+{"answers":2,"views":430,"votes":1,"question":"No entiendo porque me sale este error 1136?","tab":"active"},
+{"answers":1,"views":16,"votes":0,"question":"Como poner disponible los datos del Usuario para todos los m\u00e9todos de un controlador Laravel","tab":"active"},
+{"answers":0,"views":8,"votes":0,"question":"formulario \u201cinteractivo\u201d en c#","tab":"active"},
+{"answers":1,"views":12,"votes":0,"question":"Multi Tarea en Arduino","tab":"active"},
+{"answers":0,"views":9,"votes":0,"question":"Desacoplando AspNet identity","tab":"active"},
+{"answers":1,"views":41,"votes":2,"question":"Agregar elementos en dos listas al mismo tiempo","tab":"active"},
+{"answers":0,"views":7,"votes":0,"question":"CURSORES ORACLE SQL","tab":"active"},
+{"answers":1,"views":13,"votes":0,"question":"Dibujar la media en un grafico con matplotlib","tab":"active"},
+{"answers":1,"views":15,"votes":0,"question":"Duda con consulta y foreach","tab":"active"},
+{"answers":1,"views":430,"votes":0,"question":"Consulta MySQL con Ajax PHP","tab":"active"},
+{"answers":1,"views":40,"votes":0,"question":"\u00bfPor qu\u00e9 mi condicional if no funciona correctamente?","tab":"active"},
+{"answers":0,"views":22,"votes":0,"question":"No logro mostrar el resultado de 2 consultas SQL unidas","tab":"active"},
+{"answers":2,"views":161,"votes":1,"question":"Remplezar etiquetas <div> por <p> en php conservando clases y\/o estilos [duplicada]","tab":"active"},
+{"answers":0,"views":16,"votes":0,"question":"uso correcto de having by","tab":"active"},
+{"answers":1,"views":17,"votes":0,"question":"\u00bfC\u00f3mo puedo mostrar datos de una cadena con Firebase?","tab":"active"},
+{"answers":2,"views":24,"votes":0,"question":"ayuda Servlet envio de parametros","tab":"active"},
+{"answers":0,"views":7,"votes":0,"question":"Pago con tarjeta en aplicaci\u00f3n iOS","tab":"active"},
+{"answers":2,"views":867,"votes":1,"question":"Error al crear un nuevo proyecto Angular con Angular-Cli","tab":"active"},
+{"answers":2,"views":30,"votes":0,"question":"Env\u00edo de Datos Formulario HTML, PHP, MySQL","tab":"active"},
+{"answers":0,"views":4,"votes":0,"question":"\u00bfEncender Flashlight con google vision?","tab":"android"},
+{"answers":1,"views":9,"votes":0,"question":"Como puedo desactivar la pantalla t\u00e1ctil en un m\u00e9todo","tab":"android"},
+{"answers":1,"views":2,"votes":0,"question":"Existe alguna manera de notificarme a trav\u00e9s de correo electr\u00f3nico cuando un usuario nuevo se registra en mi app?","tab":"android"},
+{"answers":0,"views":1,"votes":0,"question":"\u00bfComo hacer una captura de pantalla mediante c\u00f3digo? Android Studio","tab":"android"},
+{"answers":0,"views":7,"votes":0,"question":"C\u00f3mo llamar a muchas tareas largas en android?","tab":"android"},
+{"answers":0,"views":8,"votes":0,"question":"\u00bfComo puedo mostrar las categor\u00edas de x productos, las cuales a su vez tienen hijos (subcategorias), y estos tambien tiene hijos? Android studio","tab":"android"},
+{"answers":1,"views":1,"votes":0,"question":"\u00bfComo cambiar tama\u00f1o de linearlayout con porcentajes en android studio?","tab":"android"},
+{"answers":0,"views":1,"votes":0,"question":"Flutter setState, hay alguna forma de que no reconstruya todo el \u00e1rbol de Widgets?","tab":"android"},
+{"answers":0,"views":1,"votes":-1,"question":"\u00bfCuales son las mejores librer\u00edas para mapas offline en android?","tab":"android"},
+{"answers":1,"views":3,"votes":0,"question":"C\u00f3mo evitar que se muestre un objeto en un Adapter que lleno a trav\u00e9s de una base de datos","tab":"android"},
+{"answers":0,"views":1,"votes":0,"question":"usar varios recyclerview con el mismo adapter","tab":"android"},
+{"answers":1,"views":2,"votes":0,"question":"Notificaciones tiempo real chat en android con firebase","tab":"android"},
+{"answers":1,"views":2,"votes":3,"question":"Duda \u201cVer c\u00f3digo fuente de la p\u00e1gina\u201d en navegadores","tab":"android"},
+{"answers":0,"views":2,"votes":1,"question":"Error java.lang.OutOfMemoryError en MainActivity - Android","tab":"android"},
+{"answers":0,"views":3,"votes":0,"question":"Widget funciona en android 6.0.1 pero en otras versiones no","tab":"android"},
+{"answers":0,"views":8,"votes":0,"question":"Como trabaja el JobIntentService para Android Oreo y pre Oreo?","tab":"android"},
+{"answers":1,"views":4,"votes":0,"question":"Exo player al cambiar de orientacion video comienza desde el principio.","tab":"android"},
+{"answers":1,"views":4,"votes":1,"question":"Necesito crear un Stack -> Listview -> Positioned en Flutter","tab":"android"},
+{"answers":1,"views":3,"votes":1,"question":"\u00bfComo puedo mandar el id de x producto al seleccionar el nombre de x producto en el spinner?","tab":"android"},
+{"answers":2,"views":3,"votes":0,"question":"Scanner C\u00f3digo de Barras","tab":"android"},
+{"answers":1,"views":3,"votes":0,"question":"recoger dato de firebase por medio de equals","tab":"android"},
+{"answers":1,"views":6,"votes":2,"question":"\u00bfC\u00f3mo soluciono el error \u201cLa aplicaci\u00f3n se ha detenido \u201d?","tab":"android"},
+{"answers":1,"views":3,"votes":0,"question":"Imagen del marcador demasiado grande Google Maps","tab":"android"},
+{"answers":0,"views":1,"votes":0,"question":"Envio masivo sms android","tab":"android"},
+{"answers":0,"views":3,"votes":0,"question":"Mostrar la informaci\u00f3n en Listview dependiendo la selecci\u00f3n de un spinner?","tab":"android"},
+{"answers":0,"views":1,"votes":0,"question":"Error en android studio al intentar levantar servicio por BroadcastReceiver android 5.1 lollipop","tab":"android"},
+{"answers":0,"views":2,"votes":0,"question":"mejor forma de pasar datos entre tabs android","tab":"android"},
+{"answers":2,"views":5,"votes":0,"question":"Por que si un m\u00e9todo usa una interfaz como par\u00e1metro, al llamar a dicho m\u00e9todo desde otra clase hay que implementar dicha interfaz?","tab":"android"},
+{"answers":0,"views":2,"votes":0,"question":"Problema al cargar imagenes en un Recyclerview con firebase","tab":"android"},
+{"answers":0,"views":1,"votes":0,"question":"Animacion aleatoria en android","tab":"android"},
+{"answers":1,"views":3,"votes":1,"question":"Integrar Facebook en una App con WebView","tab":"android"},
+{"answers":0,"views":2,"votes":0,"question":"Listar Android Web Wervice SOAP","tab":"android"},
+{"answers":2,"views":4,"votes":1,"question":"Porque android studio no detecta mi dispositivo","tab":"android"},
+{"answers":0,"views":1,"votes":0,"question":"Por que mi BroadcastReceiver no esta capturando eventos?","tab":"android"},
+{"answers":1,"views":4,"votes":-2,"question":"Crear notificaci\u00f3n sin sonido y vibraci\u00f3n (Android) [en espera]","tab":"android"},
+{"answers":0,"views":3,"votes":0,"question":"App android para configurar correo [en espera]","tab":"android"},
+{"answers":0,"views":3,"votes":0,"question":"\u00bfComo mostrar imagen con JSONObject PHP MySQL en Android Studio?","tab":"android"},
+{"answers":0,"views":3,"votes":0,"question":"Problemas coger datos de diferentes TextView","tab":"android"},
+{"answers":2,"views":3,"votes":0,"question":"Error al intentar consumir API REST pokeapi","tab":"android"},
+{"answers":1,"views":3,"votes":0,"question":"\u00bf Como capturar click de boton html para llamar a un metodo en java android ?","tab":"android"},
+{"answers":1,"views":4,"votes":0,"question":"Trabajar con seguridad AES, SSL, Android","tab":"android"},
+{"answers":2,"views":4,"votes":0,"question":"Expected a List while deserializing, but got a class java.util.HashMap Firebase Android","tab":"android"},
+{"answers":1,"views":3,"votes":0,"question":"Como Llenar un ListView con un ArrayAdapter en un Fragment","tab":"android"},
+{"answers":0,"views":9,"votes":0,"question":"Intentando generar un apk en Android Studio de una app que incluye CordovaLib migrada de Ionic da error","tab":"android"},
+{"answers":1,"views":2,"votes":0,"question":"Mi aplicaci\u00f3n da el error android.support.v7.widget.AppCompatTextView cannot be cast to android.widget.EditText","tab":"android"},
+{"answers":2,"views":4,"votes":0,"question":"Problemas al referenciar un Objeto","tab":"android"},
+{"answers":1,"views":3,"votes":0,"question":"\u00bfComo hago un switch de dos botones flotantes que vienen de dos fragments?","tab":"android"},
+{"answers":1,"views":4,"votes":1,"question":"Recyclerview con setVisibility GONE no elimina espacio de la fila","tab":"android"},
+{"answers":0,"views":1,"votes":0,"question":"Combobox y picker en Xamarin Forms no cargan al salir de la pagina y entrar de nuevo","tab":"android"},
+{"answers":1,"views":2,"votes":1,"question":"Error al pasar el codigo de una activity a un fragment (recyclerview)","tab":"android"},
+{"answers":3,"views":72,"votes":4,"question":"\u00bfC\u00f3mo funcionan estas combinaciones en css?","tab":"week"},
+{"answers":4,"views":57,"votes":4,"question":"Tama\u00f1o de letra en HTML","tab":"week"},
+{"answers":4,"views":91,"votes":6,"question":"\u00bfC\u00f3mo convertir datos en porcentajes y en dolares?","tab":"week"},
+{"answers":3,"views":40,"votes":7,"question":"\u00bfC\u00f3mo pasar un arreglo vac\u00edo por ajax en php?","tab":"week"},
+{"answers":4,"views":57,"votes":2,"question":"No funciona el Bootstrap en Angular CLI v. 6.1.2","tab":"week"},
+{"answers":5,"views":48,"votes":1,"question":"Reiniciar ciclo while JavaScript","tab":"week"},
+{"answers":5,"views":71,"votes":1,"question":"Ajustar Columnas de 2 tablas HTML","tab":"week"},
+{"answers":4,"views":60,"votes":4,"question":"\u00bfPorque se recomienda utilizar m\u00e9todos getter y setter en TypeScript?","tab":"week"},
+{"answers":4,"views":56,"votes":4,"question":"\u00bfC\u00f3mo insertar datos despu\u00e9s de 48 horas?","tab":"week"},
+{"answers":3,"views":50,"votes":4,"question":"\u00bfQue alternativas tengo para hacer una transicion de un degradado en un bot\u00f3n?","tab":"week"},
+{"answers":3,"views":92,"votes":2,"question":"En HTML, \u00bfC\u00f3mo puedo adaptar el contenido al ancho de la pantalla?","tab":"week"},
+{"answers":4,"views":86,"votes":2,"question":"Consulta para relaci\u00f3n de tablas en MySQL","tab":"week"},
+{"answers":2,"views":50,"votes":5,"question":"\u00bfPor qu\u00e9 en un evento jQuery de JavaScript el tiempo de ejecuci\u00f3n de la primera instrucci\u00f3n cambia seg\u00fan el resto de las instrucciones?","tab":"week"},
+{"answers":4,"views":46,"votes":2,"question":"Fecha actual en input html","tab":"week"},
+{"answers":2,"views":73,"votes":1,"question":"Ayuda con ejercicio en JavaScript","tab":"week"},
+{"answers":1,"views":51,"votes":0,"question":"No me entra en el IF","tab":"week"},
+{"answers":2,"views":65,"votes":3,"question":"php - str_replace","tab":"week"},
+{"answers":2,"views":65,"votes":1,"question":"Im\u00e1gen con tri\u00e1ngulo en CSS","tab":"week"},
+{"answers":2,"views":38,"votes":3,"question":"\u00bfC\u00f3mo convertir una string a int en c++?","tab":"week"},
+{"answers":2,"views":61,"votes":3,"question":"Puedo formar un WHERE en una variable de @?","tab":"week"},
+{"answers":2,"views":44,"votes":3,"question":"\u00bfSe pueden usar variables en jQuery?","tab":"week"},
+{"answers":3,"views":54,"votes":2,"question":"\u00bfC\u00f3mo obtener el numero de d\u00edas de la semana, mes y a\u00f1o actual?","tab":"week"},
+{"answers":1,"views":52,"votes":1,"question":"Control de horarios con moment js","tab":"week"},
+{"answers":3,"views":52,"votes":2,"question":"\u00bfC\u00f3mo hago para recorrer una variable con jQuery o JavaScript puro?","tab":"week"},
+{"answers":3,"views":38,"votes":0,"question":"\u00bfC\u00f3mo extraer valor en javascript y funcione en Internet Explorer?","tab":"week"},
+{"answers":2,"views":48,"votes":2,"question":"Como arrojar excepciones usando operador ternario en Python","tab":"week"},
+{"answers":2,"views":37,"votes":2,"question":"Javascript \u00bfC\u00f3mo puedo comprobar que dos objetos JSON sean iguales?","tab":"week"},
+{"answers":3,"views":57,"votes":2,"question":"Buscar caracteres consecutivos en una cadena PHP","tab":"week"},
+{"answers":3,"views":44,"votes":0,"question":"C\u00f3mo puedo crear un registro de nuevo usuario m\u00e1s su foto de perfil?","tab":"week"},
+{"answers":3,"views":56,"votes":1,"question":"\u00bfC\u00f6mo cambiar el estilo de un div que se crea din\u00e1micamente?","tab":"week"},
+{"answers":2,"views":33,"votes":3,"question":"Lista dentro de un for in","tab":"week"},
+{"answers":3,"views":52,"votes":2,"question":"\u00bfComo paso un json a un diccionario?","tab":"week"},
+{"answers":3,"views":64,"votes":3,"question":"No me funciona el promedio dentro del for","tab":"week"},
+{"answers":2,"views":49,"votes":0,"question":"Busqueda de Menor no funciona adecuadamente","tab":"week"},
+{"answers":1,"views":49,"votes":0,"question":"Exo player al cambiar de orientacion video comienza desde el principio.","tab":"week"},
+{"answers":2,"views":29,"votes":3,"question":"Validar varios input con una sola funcion","tab":"week"},
+{"answers":1,"views":61,"votes":3,"question":"Como anidar 'select' independientes?","tab":"week"},
+{"answers":2,"views":60,"votes":0,"question":"Logica Programacion","tab":"week"},
+{"answers":3,"views":28,"votes":2,"question":".prop('disabled', true); no funciona en funcion Each JS","tab":"week"},
+{"answers":4,"views":28,"votes":0,"question":"\u00bfC\u00f3mo puedo hacer para ocultar un peque\u00f1o mapa de google cuando se ingrese al sitio web desde un celular?","tab":"week"},
+{"answers":1,"views":46,"votes":2,"question":"Llamar funci\u00f3n PHP desde l\u00ednea de comandos Yii","tab":"week"},
+{"answers":1,"views":46,"votes":0,"question":"Adaptar imagen a carousel bootstrap","tab":"week"},
+{"answers":1,"views":58,"votes":4,"question":"Calcular diferencia de horas php","tab":"week"},
+{"answers":1,"views":35,"votes":0,"question":"Con que librer\u00eda y como puedo hacer una petici\u00f3n HTTP en C++","tab":"week"},
+{"answers":1,"views":27,"votes":0,"question":"Error en JAVASCRIPT","tab":"week"},
+{"answers":2,"views":34,"votes":5,"question":"array_merge dentro de un foreach","tab":"week"},
+{"answers":2,"views":55,"votes":-1,"question":"\u00bfC\u00f3mo elevar a una potencia a toda una ecuacion?","tab":"week"},
+{"answers":1,"views":33,"votes":0,"question":"Cambiar el contenido de las columnas en DataGridView","tab":"week"},
+{"answers":2,"views":16,"votes":0,"question":"Ideas de como validar fechas y horas agendadas mediante solo input","tab":"hot"},
+{"answers":1,"views":12,"votes":0,"question":"\u00bfForEach no funciona en javscript?","tab":"hot"},
+{"answers":2,"views":18,"votes":0,"question":"Como puedo evitar Registro Duplicado en MySQL?","tab":"hot"},
+{"answers":1,"views":12,"votes":0,"question":"como redondear un jbutton en java?","tab":"hot"},
+{"answers":1,"views":11,"votes":0,"question":"Guardar elemento DOM como IMG","tab":"hot"},
+{"answers":1,"views":17,"votes":0,"question":"como filtrar un array que contiene arrays con el valor de un input search [en espera]","tab":"hot"},
+{"answers":1,"views":12,"votes":0,"question":"Multi Tarea en Arduino","tab":"hot"},
+{"answers":1,"views":24,"votes":0,"question":"Existe alguna manera de notificarme a trav\u00e9s de correo electr\u00f3nico cuando un usuario nuevo se registra en mi app?","tab":"hot"},
+{"answers":1,"views":15,"votes":0,"question":"Duda con consulta y foreach","tab":"hot"},
+{"answers":2,"views":22,"votes":2,"question":"Que significan las llaves en una consulta con WHERE id = {$id}?","tab":"hot"},
+{"answers":1,"views":13,"votes":0,"question":"Dibujar la media en un grafico con matplotlib","tab":"hot"},
+{"answers":0,"views":22,"votes":0,"question":"No logro mostrar el resultado de 2 consultas SQL unidas","tab":"hot"},
+{"answers":0,"views":19,"votes":-1,"question":"Internet zona muerta! [en espera]","tab":"hot"},
+{"answers":0,"views":16,"votes":0,"question":"uso correcto de having by","tab":"hot"},
+{"answers":1,"views":25,"votes":0,"question":"crear un vector de 30 numeros aleatorios, obtener la media, y el n\u00famero mayor y menor en c","tab":"hot"},
+{"answers":2,"views":30,"votes":0,"question":"Env\u00edo de Datos Formulario HTML, PHP, MySQL","tab":"hot"},
+{"answers":0,"views":11,"votes":-1,"question":"trigger que lance una excepcion que indique que no se pueden crear dos salidas iguales","tab":"hot"},
+{"answers":0,"views":12,"votes":0,"question":"como hago para subir una imagen en java? tengo el siguiente codigo","tab":"hot"},
+{"answers":1,"views":30,"votes":0,"question":"\u00bf@foreach en laravel que vaya de 2 objetos en 2 objetos?","tab":"hot"},
+{"answers":0,"views":12,"votes":0,"question":"Problemas con dos autoload en PHP","tab":"hot"},
+{"answers":0,"views":14,"votes":2,"question":"Crear usb live con datos persistentes a trav\u00e9s de terminal","tab":"hot"},
+{"answers":2,"views":26,"votes":0,"question":"Comprobar dias del 1 al 5 de cada mes","tab":"hot"},
+{"answers":1,"views":24,"votes":0,"question":"Almacenar un objeto en un arreglo de string","tab":"hot"},
+{"answers":0,"views":24,"votes":0,"question":"M\u00e9todo authenticate ha dejado de funcionar","tab":"hot"},
+{"answers":0,"views":13,"votes":0,"question":"Dar estilo a un elemento dependiendo del n\u00famero de radio buttons marcados","tab":"hot"},
+{"answers":1,"views":29,"votes":1,"question":"Consulta del mayor n\u00famero de ventas por cada vendedor","tab":"hot"},
+{"answers":1,"views":32,"votes":0,"question":"\u00bfComo almacenar variable en JavaScript hasta recargar pagina?","tab":"hot"},
+{"answers":1,"views":40,"votes":0,"question":"\u00bfPor qu\u00e9 mi condicional if no funciona correctamente?","tab":"hot"},
+{"answers":2,"views":48,"votes":2,"question":"Como arrojar excepciones usando operador ternario en Python","tab":"hot"},
+{"answers":1,"views":24,"votes":0,"question":"Linkear por medio de clase o metodo archivo css en php","tab":"hot"},
+{"answers":1,"views":17,"votes":0,"question":"\u00bfC\u00f3mo puedo mostrar datos de una cadena con Firebase?","tab":"hot"},
+{"answers":1,"views":24,"votes":1,"question":"\u00bfC\u00f3mo mostrar datos seg\u00fan la categor\u00eda de una URL mediante switch case PHP?","tab":"hot"},
+{"answers":1,"views":13,"votes":0,"question":"Grupo radio con funcion muestra el value=\u201ctexto\u201d al seleccionar, con checked=\u201cyes\u201d por defecto tendr\u00eda que mostrarlo tambien","tab":"hot"},
+{"answers":1,"views":16,"votes":0,"question":"Como poner disponible los datos del Usuario para todos los m\u00e9todos de un controlador Laravel","tab":"hot"},
+{"answers":2,"views":32,"votes":1,"question":"C\u00f3mo establecer una relaci\u00f3n many-to-many en laravel","tab":"hot"},
+{"answers":1,"views":17,"votes":0,"question":"\u00bfComo actualizo un bool en un archivo .h?","tab":"hot"},
+{"answers":3,"views":16,"votes":2,"question":"\u00bfPor qu\u00e9 en una funcion anidada debo retornarla en su funci\u00f3n principal?","tab":"hot"},
+{"answers":2,"views":55,"votes":-1,"question":"\u00bfC\u00f3mo elevar a una potencia a toda una ecuacion?","tab":"hot"},
+{"answers":0,"views":18,"votes":0,"question":"Fallo en el c\u00e1lculo del Coeficiente de correlaci\u00f3n","tab":"hot"},
+{"answers":1,"views":17,"votes":0,"question":"Cual es la jerarqu\u00eda (IMPORTANCIA) en un conjunto de if anidados?","tab":"hot"},
+{"answers":0,"views":16,"votes":0,"question":"Pasar una variable con valor unico a otra clase","tab":"hot"},
+{"answers":3,"views":38,"votes":0,"question":"Base de Datos en Access direccionar ruta para exportar consultas a excel","tab":"hot"},
+{"answers":1,"views":19,"votes":3,"question":"(Overloading) - Sobrecargar Operadores en Python","tab":"hot"},
+{"answers":3,"views":20,"votes":1,"question":"\u00bfC\u00f3mo contar los registros de un dato especifico usando sentencias preparadas MySQLi (orientado a objetos)?","tab":"hot"},
+{"answers":0,"views":11,"votes":-1,"question":"Problema con imagen de informe que se corta en reportviewer","tab":"hot"},
+{"answers":1,"views":30,"votes":0,"question":"C\u00f3mo evitar que se muestre un objeto en un Adapter que lleno a trav\u00e9s de una base de datos","tab":"hot"},
+{"answers":1,"views":18,"votes":0,"question":"Como crear un oyente de teclado solo para la tecla ENTER?","tab":"hot"},
+{"answers":3,"views":41,"votes":0,"question":"Extraer nada m\u00e1s los 4 primeros n\u00fameros de una cadena PHP","tab":"hot"},
+{"answers":5,"views":110,"votes":6,"question":"\u00bfC\u00f3mo realizar el efecto de leer mas?","tab":"month"},
+{"answers":5,"views":104,"votes":6,"question":"String en java, \u00bfes m\u00e1s eficiente crear o asignar?","tab":"month"},
+{"answers":2,"views":354,"votes":13,"question":"\u00bfHay alguna forma de provocar dos cambios pulsando en un \u00fanico label?","tab":"month"},
+{"answers":5,"views":81,"votes":4,"question":"Ocultar una etiqueta div en HTML","tab":"month"},
+{"answers":2,"views":199,"votes":4,"question":"\u00bfC\u00f3mo editar una p\u00e1gina externa a trav\u00e9s de un iframe sin acceso denegado?","tab":"month"}
+{"answers":3,"views":118,"votes":4,"question":"\u00bfCual es la diferencia entre rand y srand?","tab":"month"}
+{"answers":3,"views":72,"votes":4,"question":"\u00bfC\u00f3mo funcionan estas combinaciones en css?","tab":"month"}
+{"answers":4,"views":138,"votes":6,"question":"\u00bfC\u00f3mo crear un slider sencillo de marcador de juego online?","tab":"month"}
+{"answers":4,"views":77,"votes":0,"question":"variables globales en c++","tab":"month"}
+{"answers":4,"views":57,"votes":4,"question":"Tama\u00f1o de letra en HTML","tab":"month"}
+{"answers":4,"views":91,"votes":6,"question":"\u00bfC\u00f3mo convertir datos en porcentajes y en dolares?","tab":"month"}
+{"answers":3,"views":40,"votes":7,"question":"\u00bfC\u00f3mo pasar un arreglo vac\u00edo por ajax en php?","tab":"month"}
+{"answers":3,"views":63,"votes":5,"question":"Leer por consola CSharp","tab":"month"}
+{"answers":2,"views":213,"votes":9,"question":"\u00bfC\u00f3mo evitar el acceso aun sitio web externo si no es redireccionado desde mi sitio?","tab":"month"}
+{"answers":4,"views":70,"votes":4,"question":"Como obtener parte de una url de un string en asp.net c#?","tab":"month"}
+{"answers":1,"views":292,"votes":6,"question":"Como actualizar tabla ajax php sql server?","tab":"month"}
+{"answers":5,"views":39,"votes":2,"question":"No se guarda la var en js","tab":"month"}
+{"answers":4,"views":57,"votes":2,"question":"No funciona el Bootstrap en Angular CLI v. 6.1.2","tab":"month"}
+{"answers":0,"views":523,"votes":1,"question":"Angular 5 common.js:263 Uncaught ReferenceError: $st is not defined [cerrada]","tab":"month"}
+{"answers":3,"views":175,"votes":2,"question":"No reconoce js para la extension","tab":"month"}
+{"answers":4,"views":49,"votes":5,"question":"\u00bfPor qu\u00e9 en JavaScript al hacer document.write de un appendChild, me muestra este resultado?","tab":"month"}
+{"answers":2,"views":62,"votes":3,"question":"Ayuda php recepcione dos fechas y muestre el fin de mes en rojo","tab":"month"}
+{"answers":3,"views":93,"votes":0,"question":"\u00bfEs posible capturar un clic y detener su ejecuci\u00f3n?","tab":"month"}
+{"answers":2,"views":252,"votes":4,"question":"Servidor Mysql en localhost no funciona","tab":"month"}
+{"answers":5,"views":71,"votes":1,"question":"Ajustar Columnas de 2 tablas HTML","tab":"month"}
+{"answers":2,"views":53,"votes":3,"question":"Retorno de dos valores en JAVA","tab":"month"}
+{"answers":5,"views":48,"votes":1,"question":"Reiniciar ciclo while JavaScript","tab":"month"}
+{"answers":2,"views":61,"votes":4,"question":"Como puedo mostrar el valor de una variable por pantalla dentro de un texto en c#? [cerrada]","tab":"month"}
+{"answers":4,"views":60,"votes":4,"question":"\u00bfPorque se recomienda utilizar m\u00e9todos getter y setter en TypeScript?","tab":"month"}
+{"answers":3,"views":59,"votes":3,"question":"\u00bfComo imprimir un array de punteros sin conocer su tama\u00f1o?","tab":"month"}
+{"answers":1,"views":57,"votes":4,"question":"Aplicacion en C# inicie en Textbox en especifico","tab":"month"}
+{"answers":4,"views":56,"votes":4,"question":"\u00bfC\u00f3mo insertar datos despu\u00e9s de 48 horas?","tab":"month"}
+{"answers":2,"views":54,"votes":2,"question":"Como puedo armar una funcion predicado cuando tengo que elegir entre varios opciones","tab":"month"}
+{"answers":2,"views":114,"votes":4,"question":"ComboBox en DataGridView","tab":"month"}
+{"answers":1,"views":66,"votes":3,"question":"\u00bfPor qu\u00e9 al instanciar una clase externa, no me deja acceder a sus m\u00e9todos \u201cstatic\u201d y cuando les remuevo el \u201cstatic\u201d, s\u00ed?","tab":"month"}
+{"answers":3,"views":108,"votes":1,"question":"\u00bfcomparar objetos en Java?","tab":"month"}
+{"answers":3,"views":50,"votes":4,"question":"\u00bfQue alternativas tengo para hacer una transicion de un degradado en un bot\u00f3n?","tab":"month"}
+{"answers":3,"views":38,"votes":2,"question":"Desplazarme entre componentes (TextBox y Botones) usando TAB","tab":"month"}
+{"answers":3,"views":46,"votes":2,"question":"\u00bfComo comparar campo de un registro actual con el siguiente, con el objetivo de de saber si est\u00e1 repetido o no?","tab":"month"}
+{"answers":4,"views":58,"votes":4,"question":"Averiguar si un div esta lleno","tab":"month"}
+{"answers":1,"views":58,"votes":2,"question":"como trabajar con patrones de comillas dobles","tab":"month"}
+{"answers":4,"views":72,"votes":1,"question":"De qu\u00e9 manera podr\u00eda contar la cantidad de veces que el signo + se repite en un dato String","tab":"month"}
+{"answers":3,"views":92,"votes":2,"question":"En HTML, \u00bfC\u00f3mo puedo adaptar el contenido al ancho de la pantalla?","tab":"month"}
+{"answers":3,"views":71,"votes":0,"question":"\u00bfC\u00f3mo evitar que vean los datos que generan de la consulta en la URL?","tab":"month"}
+{"answers":1,"views":91,"votes":1,"question":"java.lang.RuntimeException: Unable to start activity, java.lang.NullPointerException en Android Studio","tab":"month"}
+{"answers":3,"views":54,"votes":4,"question":"\u00bfC\u00f3mo hacer un bucle en SQL?","tab":"month"}
+{"answers":3,"views":88,"votes":1,"question":"evaluar multiples variables en una sentencia if [cerrada]","tab":"month"}
+{"answers":4,"views":53,"votes":2,"question":"Mostrar el primer elemento de un array","tab":"month"}
+{"answers":2,"views":213,"votes":9,"question":"\u00bfC\u00f3mo evitar el acceso aun sitio web externo si no es redireccionado desde mi sitio?","tab":"featured"}
+{"answers":0,"views":63,"votes":1,"question":"Error de falta de memoria","tab":"featured"}
+{"answers":1,"views":4,"votes":0,"question":"Forma correcta de ocultar un <input> en HTML usando javascript","tab":"javascript"}
+{"answers":0,"views":3,"votes":0,"question":"Dada una lista de n\u00fameros enteros no negativos y una suma objetivo, encuentre un par de n\u00fameros que sumen a la suma objetivo","tab":"javascript"}
+{"answers":1,"views":1,"votes":0,"question":"\u00bfForEach no funciona en javscript?","tab":"javascript"}
+{"answers":2,"views":1,"votes":0,"question":"Ideas de como validar fechas y horas agendadas mediante solo input","tab":"javascript"}
+{"answers":2,"views":1,"votes":0,"question":"Como puedo evitar Registro Duplicado en MySQL?","tab":"javascript"}
+{"answers":1,"views":1,"votes":0,"question":"como filtrar un array que contiene arrays con el valor de un input search [en espera]","tab":"javascript"}
+{"answers":1,"views":1,"votes":0,"question":"Grupo radio con funcion muestra el value=\u201ctexto\u201d al seleccionar, con checked=\u201cyes\u201d por defecto tendr\u00eda que mostrarlo tambien","tab":"javascript"}
+{"answers":1,"views":3,"votes":0,"question":"\u00bfComo almacenar variable en JavaScript hasta recargar pagina?","tab":"javascript"}
+{"answers":0,"views":8,"votes":0,"question":"Algunas teclas no funcionan en el evento keyup en javascript","tab":"javascript"}
+{"answers":0,"views":9,"votes":-1,"question":"Alguien sabe como hacer scrap con Js","tab":"javascript"}
+{"answers":3,"views":1,"votes":2,"question":"\u00bfPor qu\u00e9 en una funcion anidada debo retornarla en su funci\u00f3n principal?","tab":"javascript"}
+{"answers":1,"views":1,"votes":0,"question":"\u00bfC\u00f3mo puedo mostrar datos de una cadena con Firebase?","tab":"javascript"}
+{"answers":0,"views":2,"votes":0,"question":"No me ejecutan los scripts en Laravel 5.6","tab":"javascript"}
+{"answers":0,"views":1,"votes":0,"question":"Alguien sabe porque me da error?","tab":"javascript"}
+{"answers":2,"views":3,"votes":0,"question":"Como identificar valores en un string","tab":"javascript"}
+{"answers":1,"views":1,"votes":1,"question":"Eliminar duplicados de un arreglo de objetos JSON en javascript (Angular 5)","tab":"javascript"}
+{"answers":0,"views":8,"votes":0,"question":"A que se debe este error: fatal: cannot update the ref 'HEAD': unable to append to '.git\/logs\/HEAD': Permission denied --en Windows","tab":"javascript"}
+{"answers":3,"views":2,"votes":-1,"question":"funcion simple de obtener el valor de un input","tab":"javascript"}
+{"answers":4,"views":3,"votes":0,"question":"validar un numero con javascrip","tab":"javascript"}
+{"answers":1,"views":4,"votes":0,"question":"C\u00f3mo eliminar varios divs que antes no existian?","tab":"javascript"}
+{"answers":1,"views":2,"votes":0,"question":"\u00bfPorque me agrega la clase next left en mi carousel de boostrap cuando le indico que me agregue mi clase active en mi carousel de boostrap?","tab":"javascript"}
+{"answers":2,"views":3,"votes":2,"question":"Javascript \u00bfC\u00f3mo puedo comprobar que dos objetos JSON sean iguales?","tab":"javascript"}
+{"answers":1,"views":2,"votes":0,"question":"\u00bfC\u00f3mo cambiar el scroll actual a uno regular?","tab":"javascript"}
+{"answers":2,"views":3,"votes":1,"question":"Problema con NavBar \u201cbrinca\u201d al hacer Scroll (shrink)","tab":"javascript"}
+{"answers":0,"views":8,"votes":0,"question":"\u00bfEncontrar archivo MANIFEST?","tab":"javascript"}
+{"answers":4,"views":5,"votes":1,"question":"Editar Texto en html","tab":"javascript"}
+{"answers":1,"views":2,"votes":0,"question":"Escribir archivo txt con salto de linea","tab":"javascript"}
+{"answers":1,"views":4,"votes":2,"question":"Agregar elementos en dos listas al mismo tiempo","tab":"javascript"}
+{"answers":3,"views":3,"votes":3,"question":"Que significa '&quot' en el codigo?","tab":"javascript"}
+{"answers":1,"views":1,"votes":0,"question":"Enviar correo desde Ionic","tab":"javascript"}
+{"answers":1,"views":4,"votes":-1,"question":"P\u00e1gina web para compartir codigo o script [en espera]","tab":"javascript"}
+{"answers":1,"views":2,"votes":0,"question":"\u00bfJavaScript cambiar el tama\u00f1o de un contenedor en tiempo real con el rat\u00f3n?","tab":"javascript"}
+{"answers":1,"views":2,"votes":0,"question":"funcion mostrar valor de seleccion radio, conflicto entre varios grupos radio","tab":"javascript"}
+{"answers":0,"views":1,"votes":0,"question":"\u00bfes posible visualizar con drop zone archivos que se encuentren en el servidor?","tab":"javascript"}
+{"answers":0,"views":3,"votes":0,"question":"\u00bfSoy un pythonista y quisiera una opinion profesional? [en espera]","tab":"javascript"}
+{"answers":2,"views":6,"votes":0,"question":"Se puede convertir un archivo TXT a JSON?? Algun ejemplo de funcion JavaScript. Soy novato","tab":"javascript"}
+{"answers":1,"views":3,"votes":-2,"question":"Matriz de enteros [en espera]","tab":"javascript"}
+{"answers":1,"views":2,"votes":1,"question":"Mostrar tabla de mysql en php,javascrip","tab":"javascript"}
+{"answers":1,"views":3,"votes":1,"question":"JavaScript: .push is not a function","tab":"javascript"}
+{"answers":0,"views":1,"votes":0,"question":"c\u00f3mo validar campos con if o switch mediante boton llamado \u201csiguiente paso\u201d? en JavaScript?","tab":"javascript"}
+{"answers":3,"views":3,"votes":0,"question":"Poner por defecto el valor seleccionar con una funcion javascript","tab":"javascript"}
+{"answers":2,"views":3,"votes":2,"question":"hover con jQuery al dar click en div","tab":"javascript"}
+{"answers":1,"views":1,"votes":0,"question":"Acceder a una variable de metodo $.ajax","tab":"javascript"}
+{"answers":2,"views":2,"votes":1,"question":"Como hago una variable del mismo tipo de la clase en Javascript?","tab":"javascript"}
+{"answers":1,"views":3,"votes":0,"question":"\u00bf Como ajustar tama\u00f1o y contenido de iframe cuando cambio las dimensiones del navegador dinamicamente?","tab":"javascript"}
+{"answers":2,"views":2,"votes":0,"question":"Moverme de p\u00e1gina cuando selecciono una opci\u00f3n en un select","tab":"javascript"}
+{"answers":1,"views":3,"votes":0,"question":"\u00bfComo esperar el retorno de una funcion con async-await? (asincronismo - javascript)","tab":"javascript"}
+{"answers":0,"views":1,"votes":0,"question":"Hacer una polylinea con jquery gmaps","tab":"javascript"}
+{"answers":1,"views":1,"votes":0,"question":"Error al actualizar varios clientes con Socket.io","tab":"javascript"}
+{"answers":1,"views":2,"votes":3,"question":"Funcion para concatenar datos de tabla html y jquery","tab":"javascript"}
+{"answers":0,"views":4,"votes":0,"question":"\u00bfEncender Flashlight con google vision?","tab":"java"}
+{"answers":1,"views":1,"votes":0,"question":"como redondear un jbutton en java?","tab":"java"}
+{"answers":1,"views":9,"votes":0,"question":"Como puedo desactivar la pantalla t\u00e1ctil en un m\u00e9todo","tab":"java"}
+{"answers":1,"views":2,"votes":0,"question":"Existe alguna manera de notificarme a trav\u00e9s de correo electr\u00f3nico cuando un usuario nuevo se registra en mi app?","tab":"java"}
+{"answers":0,"views":4,"votes":0,"question":"UCanAccess \u201cusuario no tiene privilegios suficientes o objeto no encontrado\u201d","tab":"java"}
+{"answers":0,"views":5,"votes":0,"question":"\u00bfHacer que una figura siga el mouse pero solo se mueva en c\u00edrculos, es decir, como un objeto peque\u00f1o en \u00f3rbita con un objeto mas grande JAVA NETBEANS?","tab":"java"}
+{"answers":0,"views":1,"votes":0,"question":"\u00bfComo hacer una captura de pantalla mediante c\u00f3digo? Android Studio","tab":"java"}
+{"answers":0,"views":7,"votes":0,"question":"C\u00f3mo llamar a muchas tareas largas en android?","tab":"java"}
+{"answers":1,"views":2,"votes":0,"question":"Almacenar un objeto en un arreglo de string","tab":"java"}
+{"answers":0,"views":1,"votes":0,"question":"Crear metodos que generalicen la Alta, Baja y Modificacion de varios objetos","tab":"java"}
+{"answers":1,"views":1,"votes":0,"question":"Como crear un oyente de teclado solo para la tecla ENTER?","tab":"java"}
+{"answers":0,"views":8,"votes":0,"question":"\u00bfComo puedo mostrar las categor\u00edas de x productos, las cuales a su vez tienen hijos (subcategorias), y estos tambien tiene hijos? Android studio","tab":"java"}
+{"answers":1,"views":1,"votes":0,"question":"\u00bfComo cambiar tama\u00f1o de linearlayout con porcentajes en android studio?","tab":"java"}
+{"answers":2,"views":3,"votes":0,"question":"Como identificar valores en un string","tab":"java"}
+{"answers":0,"views":1,"votes":-1,"question":"\u00bfCuales son las mejores librer\u00edas para mapas offline en android?","tab":"java"}
+{"answers":0,"views":9,"votes":1,"question":"Hibernate @ManyToMany dudas","tab":"java"}
+{"answers":1,"views":3,"votes":0,"question":"C\u00f3mo evitar que se muestre un objeto en un Adapter que lleno a trav\u00e9s de una base de datos","tab":"java"}
+{"answers":1,"views":3,"votes":2,"question":"Mini-Max Sum Hacker Rank","tab":"java"}
+{"answers":0,"views":1,"votes":0,"question":"Primefaces 5 con JSF enviar datos a otra vista desde una tabla","tab":"java"}
+{"answers":0,"views":4,"votes":0,"question":"Forma correcta de usar un Resultmap en myBatis xml","tab":"java"}
+{"answers":2,"views":1,"votes":1,"question":"\u00bfC\u00f3mo enviar par\u00e1metros a trav\u00e9s de clases creadas mediante WSDL generadas con jax-ws?","tab":"java"}
+{"answers":0,"views":3,"votes":0,"question":"Problema con Neatbeans","tab":"java"}
+{"answers":0,"views":3,"votes":0,"question":"Widget funciona en android 6.0.1 pero en otras versiones no","tab":"java"}
+{"answers":1,"views":2,"votes":0,"question":"Cargar JLabel desde MySQL","tab":"java"}
+{"answers":0,"views":3,"votes":0,"question":"Solicitud HTTP POST en java no vuelca la respuesta?","tab":"java"}
+{"answers":0,"views":2,"votes":0,"question":"Problemas con Rutas al crear el JAR","tab":"java"}
+{"answers":0,"views":2,"votes":-1,"question":"Para qu\u00e9 sirve Spring? [en espera]","tab":"java"}
+{"answers":1,"views":2,"votes":0,"question":"Escribir archivo txt con salto de linea","tab":"java"}
+{"answers":0,"views":4,"votes":0,"question":"\u00bfComo cargar datos devueltos con spring mvc en una grid de ExtJs?","tab":"java"}
+{"answers":2,"views":1,"votes":0,"question":"\u00bfComo puedo hacer que al momento de ingresar un elemento a una arreglo en java este primero verifique si se encuentra?","tab":"java"}
+{"answers":1,"views":2,"votes":2,"question":"\u00bfComo puedo hacer un try catch y que me repita la opcion que estoy haciendo?","tab":"java"}
+{"answers":0,"views":3,"votes":0,"question":"\u00bfSaben como mostrar una imagen guardada en la base de datos?","tab":"java"}
+{"answers":1,"views":4,"votes":0,"question":"Exo player al cambiar de orientacion video comienza desde el principio.","tab":"java"}
+{"answers":0,"views":2,"votes":0,"question":"Realizar formato imprimible desde JAVA 8","tab":"java"}
+{"answers":0,"views":9,"votes":2,"question":"C\u00f3mo puedo utilizar PHP JavaBridge","tab":"java"}
+{"answers":1,"views":2,"votes":0,"question":"\u00bfporque al usar el nextInt() automaticamente salta de linea en Java?","tab":"java"}
+{"answers":1,"views":3,"votes":2,"question":"Fallo al mostrar listado de datos en Java","tab":"java"}
+{"answers":3,"views":6,"votes":3,"question":"No me funciona el promedio dentro del for","tab":"java"}
+{"answers":1,"views":4,"votes":0,"question":"No me muesta nada la hora de consultar la informaci\u00f3n en la interfaz de Java","tab":"java"}
+{"answers":0,"views":2,"votes":0,"question":"Descarga fichero jsf 2.2 primefaces","tab":"java"}
+{"answers":1,"views":1,"votes":1,"question":"C\u00f3mo generar correctamente archivo en Java (mysql)","tab":"java"}
+{"answers":1,"views":1,"votes":0,"question":"p:selectBooleanButton DENTRO DE p:tab JSF PRIMFACES (me da error, no me sale la acci\u00f3n de pulsar el bot\u00f3n)","tab":"java"}
+{"answers":2,"views":2,"votes":2,"question":"Cambiar el valor por anotaci\u00f3n en SpringBoot Json","tab":"java"}
+{"answers":1,"views":4,"votes":2,"question":"Porque al compilar en NetBeans no me devuelve nada?","tab":"java"}
+{"answers":1,"views":3,"votes":0,"question":"Imagen del marcador demasiado grande Google Maps","tab":"java"}
+{"answers":1,"views":3,"votes":1,"question":"\u00bfDonde se guardan los Logs de Java? \u00bfComo puedo elegir donde?","tab":"java"}
+{"answers":0,"views":1,"votes":0,"question":"Tengo problemas para terminar un ejercicio Maven Java","tab":"java"}
+{"answers":1,"views":3,"votes":-1,"question":"Ayuda para importar archivos csv en Java","tab":"java"}
+{"answers":0,"views":2,"votes":0,"question":"DriverManager.getConnection Din\u00e1micamente","tab":"java"}
+{"answers":0,"views":2,"votes":0,"question":"Error al pasar crear File","tab":"java"}
+{"answers":0,"views":4,"votes":0,"question":"Error carga del men\u00fa responsive al abrir el navegador","tab":"php"}
+{"answers":1,"views":7,"votes":0,"question":"Mostrar input segun privilegios","tab":"php"}
+{"answers":2,"views":1,"votes":0,"question":"Ideas de como validar fechas y horas agendadas mediante solo input","tab":"php"}
+{"answers":2,"views":1,"votes":0,"question":"Como puedo evitar Registro Duplicado en MySQL?","tab":"php"}
+{"answers":1,"views":1,"votes":0,"question":"Duda con consulta y foreach","tab":"php"}
+{"answers":0,"views":2,"votes":0,"question":"No logro mostrar el resultado de 2 consultas SQL unidas","tab":"php"}
+{"answers":2,"views":2,"votes":2,"question":"Que significan las llaves en una consulta con WHERE id = {$id}?","tab":"php"}
+{"answers":0,"views":1,"votes":0,"question":"Problemas con dos autoload en PHP","tab":"php"}
+{"answers":2,"views":1,"votes":0,"question":"Mantener el registro de un ComboBox en un formulario de editar","tab":"php"}
+{"answers":2,"views":3,"votes":0,"question":"Env\u00edo de Datos Formulario HTML, PHP, MySQL","tab":"php"}
+{"answers":2,"views":2,"votes":0,"question":"Comprobar dias del 1 al 5 de cada mes","tab":"php"}
+{"answers":1,"views":2,"votes":1,"question":"\u00bfC\u00f3mo mostrar datos seg\u00fan la categor\u00eda de una URL mediante switch case PHP?","tab":"php"}
+{"answers":1,"views":3,"votes":0,"question":"\u00bf@foreach en laravel que vaya de 2 objetos en 2 objetos?","tab":"php"}
+{"answers":1,"views":4,"votes":0,"question":"Forma correcta de ocultar un <input> en HTML usando javascript","tab":"active"}
+{"answers":3,"views":43,"votes":4,"question":"\u00bfC\u00f3mo puedo convertir un arreglo JSON en una List <T>?","tab":"active"}
+{"answers":1,"views":7,"votes":0,"question":"Mostrar input segun privilegios","tab":"active"}
+{"answers":0,"views":2,"votes":0,"question":"animar cambios encontrados en resultado de ajax angularjs","tab":"active"}
+{"answers":1,"views":30,"votes":0,"question":"\u00bf@foreach en laravel que vaya de 2 objetos en 2 objetos?","tab":"active"}
+{"answers":4,"views":583,"votes":0,"question":"Fondo que ocupe el ancho y alto de la pantalla","tab":"active"}
+{"answers":0,"views":5,"votes":0,"question":"\u00bfC\u00f3mo recuperar registros de una API rest con Angular 4?","tab":"active"}
+{"answers":0,"views":4,"votes":0,"question":"Error carga del men\u00fa responsive al abrir el navegador","tab":"active"}
+{"answers":0,"views":3,"votes":0,"question":"Atajo de teclado para un script ejecutable en ubuntu","tab":"active"}
+{"answers":2,"views":55,"votes":-1,"question":"\u00bfC\u00f3mo elevar a una potencia a toda una ecuacion?","tab":"active"}
+{"answers":0,"views":3,"votes":0,"question":"Dada una lista de n\u00fameros enteros no negativos y una suma objetivo, encuentre un par de n\u00fameros que sumen a la suma objetivo","tab":"active"}
+{"answers":1,"views":11,"votes":0,"question":"Guardar elemento DOM como IMG","tab":"active"}
+{"answers":2,"views":16,"votes":0,"question":"Ideas de como validar fechas y horas agendadas mediante solo input","tab":"active"}
+{"answers":2,"views":18,"votes":0,"question":"Como puedo evitar Registro Duplicado en MySQL?","tab":"active"}
+{"answers":1,"views":369,"votes":0,"question":"Realizar busqueda en DataGridView mediante textbox c++","tab":"active"}
+{"answers":1,"views":12,"votes":0,"question":"\u00bfForEach no funciona en javscript?","tab":"active"}
+{"answers":0,"views":8,"votes":0,"question":"Leer una direccion de memoria almacenada en un archivo de texto","tab":"active"}
+{"answers":1,"views":40,"votes":0,"question":"Operaciones con fechas","tab":"active"}
+{"answers":1,"views":24,"votes":0,"question":"Almacenar un objeto en un arreglo de string","tab":"active"}
+{"answers":0,"views":4,"votes":0,"question":"\u00bfEncender Flashlight con google vision?","tab":"active"}
+{"answers":1,"views":12,"votes":0,"question":"como redondear un jbutton en java?","tab":"active"}
+{"answers":0,"views":16,"votes":-1,"question":"\u00bfC\u00f3mo consumir una API rest en Angular 4?","tab":"active"}
+{"answers":0,"views":5,"votes":0,"question":"Como parsear Json con retrofit","tab":"active"}
+{"answers":1,"views":9,"votes":0,"question":"Como puedo desactivar la pantalla t\u00e1ctil en un m\u00e9todo","tab":"active"}
+{"answers":1,"views":472,"votes":0,"question":"Configuracion del web.Config <system.serviceModel>","tab":"active"}
+{"answers":1,"views":24,"votes":0,"question":"Existe alguna manera de notificarme a trav\u00e9s de correo electr\u00f3nico cuando un usuario nuevo se registra en mi app?","tab":"active"}
+{"answers":2,"views":137,"votes":6,"question":"\u00bfEs este c\u00f3digo seguro ante inyecci\u00f3n de c\u00f3digo?","tab":"active"}
+{"answers":1,"views":17,"votes":0,"question":"como filtrar un array que contiene arrays con el valor de un input search [en espera]","tab":"active"}
+{"answers":2,"views":146,"votes":0,"question":"Problema subir archivos ajax y php","tab":"active"}
+{"answers":2,"views":430,"votes":1,"question":"No entiendo porque me sale este error 1136?","tab":"active"}
+{"answers":1,"views":16,"votes":0,"question":"Como poner disponible los datos del Usuario para todos los m\u00e9todos de un controlador Laravel","tab":"active"}
+{"answers":0,"views":8,"votes":0,"question":"formulario \u201cinteractivo\u201d en c#","tab":"active"}
+{"answers":1,"views":12,"votes":0,"question":"Multi Tarea en Arduino","tab":"active"}
+{"answers":0,"views":9,"votes":0,"question":"Desacoplando AspNet identity","tab":"active"}
+{"answers":1,"views":41,"votes":2,"question":"Agregar elementos en dos listas al mismo tiempo","tab":"active"}
+{"answers":0,"views":7,"votes":0,"question":"CURSORES ORACLE SQL","tab":"active"}
+{"answers":1,"views":15,"votes":0,"question":"Duda con consulta y foreach","tab":"active"}
+{"answers":1,"views":13,"votes":0,"question":"Dibujar la media en un grafico con matplotlib","tab":"active"}
+{"answers":1,"views":430,"votes":0,"question":"Consulta MySQL con Ajax PHP","tab":"active"}
+{"answers":1,"views":40,"votes":0,"question":"\u00bfPor qu\u00e9 mi condicional if no funciona correctamente?","tab":"active"}
+{"answers":0,"views":22,"votes":0,"question":"No logro mostrar el resultado de 2 consultas SQL unidas","tab":"active"}
+{"answers":2,"views":161,"votes":1,"question":"Remplezar etiquetas <div> por <p> en php conservando clases y\/o estilos [duplicada]","tab":"active"}
+{"answers":0,"views":16,"votes":0,"question":"uso correcto de having by","tab":"active"}
+{"answers":1,"views":17,"votes":0,"question":"\u00bfC\u00f3mo puedo mostrar datos de una cadena con Firebase?","tab":"active"}
+{"answers":2,"views":24,"votes":0,"question":"ayuda Servlet envio de parametros","tab":"active"}
+{"answers":0,"views":7,"votes":0,"question":"Pago con tarjeta en aplicaci\u00f3n iOS","tab":"active"}
+{"answers":2,"views":867,"votes":1,"question":"Error al crear un nuevo proyecto Angular con Angular-Cli","tab":"active"}
+{"answers":2,"views":30,"votes":0,"question":"Env\u00edo de Datos Formulario HTML, PHP, MySQL","tab":"active"}
+{"answers":0,"views":4,"votes":0,"question":"\u00bfEncender Flashlight con google vision?","tab":"android"}
+{"answers":1,"views":9,"votes":0,"question":"Como puedo desactivar la pantalla t\u00e1ctil en un m\u00e9todo","tab":"android"}
+{"answers":1,"views":2,"votes":0,"question":"Existe alguna manera de notificarme a trav\u00e9s de correo electr\u00f3nico cuando un usuario nuevo se registra en mi app?","tab":"android"}
+{"answers":0,"views":1,"votes":0,"question":"\u00bfComo hacer una captura de pantalla mediante c\u00f3digo? Android Studio","tab":"android"}
+{"answers":0,"views":7,"votes":0,"question":"C\u00f3mo llamar a muchas tareas largas en android?","tab":"android"}
+{"answers":0,"views":8,"votes":0,"question":"\u00bfComo puedo mostrar las categor\u00edas de x productos, las cuales a su vez tienen hijos (subcategorias), y estos tambien tiene hijos? Android studio","tab":"android"}
+{"answers":1,"views":1,"votes":0,"question":"\u00bfComo cambiar tama\u00f1o de linearlayout con porcentajes en android studio?","tab":"android"}
+{"answers":0,"views":1,"votes":0,"question":"Flutter setState, hay alguna forma de que no reconstruya todo el \u00e1rbol de Widgets?","tab":"android"}
+{"answers":0,"views":1,"votes":-1,"question":"\u00bfCuales son las mejores librer\u00edas para mapas offline en android?","tab":"android"}
+{"answers":1,"views":3,"votes":0,"question":"C\u00f3mo evitar que se muestre un objeto en un Adapter que lleno a trav\u00e9s de una base de datos","tab":"android"}
+{"answers":0,"views":1,"votes":0,"question":"usar varios recyclerview con el mismo adapter","tab":"android"}
+{"answers":1,"views":2,"votes":0,"question":"Notificaciones tiempo real chat en android con firebase","tab":"android"}
+{"answers":1,"views":2,"votes":3,"question":"Duda \u201cVer c\u00f3digo fuente de la p\u00e1gina\u201d en navegadores","tab":"android"}
+{"answers":0,"views":2,"votes":1,"question":"Error java.lang.OutOfMemoryError en MainActivity - Android","tab":"android"}
+{"answers":0,"views":3,"votes":0,"question":"Widget funciona en android 6.0.1 pero en otras versiones no","tab":"android"}
+{"answers":0,"views":8,"votes":0,"question":"Como trabaja el JobIntentService para Android Oreo y pre Oreo?","tab":"android"}
+{"answers":1,"views":4,"votes":0,"question":"Exo player al cambiar de orientacion video comienza desde el principio.","tab":"android"}
+{"answers":1,"views":4,"votes":1,"question":"Necesito crear un Stack -> Listview -> Positioned en Flutter","tab":"android"}
+{"answers":1,"views":3,"votes":1,"question":"\u00bfComo puedo mandar el id de x producto al seleccionar el nombre de x producto en el spinner?","tab":"android"}
+{"answers":2,"views":3,"votes":0,"question":"Scanner C\u00f3digo de Barras","tab":"android"}
+{"answers":1,"views":3,"votes":0,"question":"recoger dato de firebase por medio de equals","tab":"android"}
+{"answers":1,"views":6,"votes":2,"question":"\u00bfC\u00f3mo soluciono el error \u201cLa aplicaci\u00f3n se ha detenido \u201d?","tab":"android"}
+{"answers":1,"views":3,"votes":0,"question":"Imagen del marcador demasiado grande Google Maps","tab":"android"}
+{"answers":0,"views":1,"votes":0,"question":"Envio masivo sms android","tab":"android"}
+{"answers":0,"views":3,"votes":0,"question":"Mostrar la informaci\u00f3n en Listview dependiendo la selecci\u00f3n de un spinner?","tab":"android"}
+{"answers":0,"views":1,"votes":0,"question":"Error en android studio al intentar levantar servicio por BroadcastReceiver android 5.1 lollipop","tab":"android"}
+{"answers":0,"views":2,"votes":0,"question":"mejor forma de pasar datos entre tabs android","tab":"android"}
+{"answers":2,"views":5,"votes":0,"question":"Por que si un m\u00e9todo usa una interfaz como par\u00e1metro, al llamar a dicho m\u00e9todo desde otra clase hay que implementar dicha interfaz?","tab":"android"}
+{"answers":0,"views":2,"votes":0,"question":"Problema al cargar imagenes en un Recyclerview con firebase","tab":"android"}
+{"answers":0,"views":1,"votes":0,"question":"Animacion aleatoria en android","tab":"android"}
+{"answers":1,"views":3,"votes":1,"question":"Integrar Facebook en una App con WebView","tab":"android"}
+{"answers":0,"views":2,"votes":0,"question":"Listar Android Web Wervice SOAP","tab":"android"}
+{"answers":2,"views":4,"votes":1,"question":"Porque android studio no detecta mi dispositivo","tab":"android"}
+{"answers":0,"views":1,"votes":0,"question":"Por que mi BroadcastReceiver no esta capturando eventos?","tab":"android"}
+{"answers":1,"views":4,"votes":-2,"question":"Crear notificaci\u00f3n sin sonido y vibraci\u00f3n (Android) [en espera]","tab":"android"}
+{"answers":0,"views":3,"votes":0,"question":"App android para configurar correo [en espera]","tab":"android"}
+{"answers":0,"views":3,"votes":0,"question":"\u00bfComo mostrar imagen con JSONObject PHP MySQL en Android Studio?","tab":"android"}
+{"answers":0,"views":3,"votes":0,"question":"Problemas coger datos de diferentes TextView","tab":"android"}
+{"answers":2,"views":3,"votes":0,"question":"Error al intentar consumir API REST pokeapi","tab":"android"}
+{"answers":1,"views":3,"votes":0,"question":"\u00bf Como capturar click de boton html para llamar a un metodo en java android ?","tab":"android"}
+{"answers":1,"views":4,"votes":0,"question":"Trabajar con seguridad AES, SSL, Android","tab":"android"}
+{"answers":2,"views":4,"votes":0,"question":"Expected a List while deserializing, but got a class java.util.HashMap Firebase Android","tab":"android"}
+{"answers":1,"views":3,"votes":0,"question":"Como Llenar un ListView con un ArrayAdapter en un Fragment","tab":"android"}
+{"answers":0,"views":9,"votes":0,"question":"Intentando generar un apk en Android Studio de una app que incluye CordovaLib migrada de Ionic da error","tab":"android"}
+{"answers":1,"views":2,"votes":0,"question":"Mi aplicaci\u00f3n da el error android.support.v7.widget.AppCompatTextView cannot be cast to android.widget.EditText","tab":"android"}
+{"answers":2,"views":4,"votes":0,"question":"Problemas al referenciar un Objeto","tab":"android"}
+{"answers":1,"views":3,"votes":0,"question":"\u00bfComo hago un switch de dos botones flotantes que vienen de dos fragments?","tab":"android"}
+{"answers":1,"views":4,"votes":1,"question":"Recyclerview con setVisibility GONE no elimina espacio de la fila","tab":"android"}
+{"answers":0,"views":1,"votes":0,"question":"Combobox y picker en Xamarin Forms no cargan al salir de la pagina y entrar de nuevo","tab":"android"}
+{"answers":1,"views":2,"votes":1,"question":"Error al pasar el codigo de una activity a un fragment (recyclerview)","tab":"android"}
+{"answers":3,"views":72,"votes":4,"question":"\u00bfC\u00f3mo funcionan estas combinaciones en css?","tab":"week"}
+{"answers":4,"views":57,"votes":4,"question":"Tama\u00f1o de letra en HTML","tab":"week"}
+{"answers":4,"views":91,"votes":6,"question":"\u00bfC\u00f3mo convertir datos en porcentajes y en dolares?","tab":"week"}
+{"answers":3,"views":40,"votes":7,"question":"\u00bfC\u00f3mo pasar un arreglo vac\u00edo por ajax en php?","tab":"week"}
+{"answers":4,"views":57,"votes":2,"question":"No funciona el Bootstrap en Angular CLI v. 6.1.2","tab":"week"}
+{"answers":5,"views":71,"votes":1,"question":"Ajustar Columnas de 2 tablas HTML","tab":"week"}
+{"answers":5,"views":48,"votes":1,"question":"Reiniciar ciclo while JavaScript","tab":"week"}
+{"answers":4,"views":60,"votes":4,"question":"\u00bfPorque se recomienda utilizar m\u00e9todos getter y setter en TypeScript?","tab":"week"}
+{"answers":4,"views":56,"votes":4,"question":"\u00bfC\u00f3mo insertar datos despu\u00e9s de 48 horas?","tab":"week"}
+{"answers":3,"views":50,"votes":4,"question":"\u00bfQue alternativas tengo para hacer una transicion de un degradado en un bot\u00f3n?","tab":"week"}
+{"answers":3,"views":92,"votes":2,"question":"En HTML, \u00bfC\u00f3mo puedo adaptar el contenido al ancho de la pantalla?","tab":"week"}
+{"answers":4,"views":86,"votes":2,"question":"Consulta para relaci\u00f3n de tablas en MySQL","tab":"week"}
+{"answers":2,"views":50,"votes":5,"question":"\u00bfPor qu\u00e9 en un evento jQuery de JavaScript el tiempo de ejecuci\u00f3n de la primera instrucci\u00f3n cambia seg\u00fan el resto de las instrucciones?","tab":"week"}
+{"answers":4,"views":46,"votes":2,"question":"Fecha actual en input html","tab":"week"}
+{"answers":2,"views":73,"votes":1,"question":"Ayuda con ejercicio en JavaScript","tab":"week"}
+{"answers":1,"views":51,"votes":0,"question":"No me entra en el IF","tab":"week"}
+{"answers":2,"views":65,"votes":3,"question":"php - str_replace","tab":"week"}
+{"answers":2,"views":65,"votes":1,"question":"Im\u00e1gen con tri\u00e1ngulo en CSS","tab":"week"}
+{"answers":2,"views":38,"votes":3,"question":"\u00bfC\u00f3mo convertir una string a int en c++?","tab":"week"}
+{"answers":2,"views":61,"votes":3,"question":"Puedo formar un WHERE en una variable de @?","tab":"week"}
+{"answers":2,"views":44,"votes":3,"question":"\u00bfSe pueden usar variables en jQuery?","tab":"week"}
+{"answers":3,"views":54,"votes":2,"question":"\u00bfC\u00f3mo obtener el numero de d\u00edas de la semana, mes y a\u00f1o actual?","tab":"week"}
+{"answers":1,"views":52,"votes":1,"question":"Control de horarios con moment js","tab":"week"}
+{"answers":3,"views":52,"votes":2,"question":"\u00bfC\u00f3mo hago para recorrer una variable con jQuery o JavaScript puro?","tab":"week"}
+{"answers":3,"views":38,"votes":0,"question":"\u00bfC\u00f3mo extraer valor en javascript y funcione en Internet Explorer?","tab":"week"}
+{"answers":2,"views":48,"votes":2,"question":"Como arrojar excepciones usando operador ternario en Python","tab":"week"}
+{"answers":2,"views":37,"votes":2,"question":"Javascript \u00bfC\u00f3mo puedo comprobar que dos objetos JSON sean iguales?","tab":"week"}
+{"answers":3,"views":57,"votes":2,"question":"Buscar caracteres consecutivos en una cadena PHP","tab":"week"}
+{"answers":3,"views":44,"votes":0,"question":"C\u00f3mo puedo crear un registro de nuevo usuario m\u00e1s su foto de perfil?","tab":"week"}
+{"answers":3,"views":56,"votes":1,"question":"\u00bfC\u00f6mo cambiar el estilo de un div que se crea din\u00e1micamente?","tab":"week"}
+{"answers":2,"views":33,"votes":3,"question":"Lista dentro de un for in","tab":"week"}
+{"answers":3,"views":52,"votes":2,"question":"\u00bfComo paso un json a un diccionario?","tab":"week"}
+{"answers":3,"views":64,"votes":3,"question":"No me funciona el promedio dentro del for","tab":"week"}
+{"answers":2,"views":49,"votes":0,"question":"Busqueda de Menor no funciona adecuadamente","tab":"week"}
+{"answers":1,"views":49,"votes":0,"question":"Exo player al cambiar de orientacion video comienza desde el principio.","tab":"week"}
+{"answers":2,"views":29,"votes":3,"question":"Validar varios input con una sola funcion","tab":"week"}
+{"answers":1,"views":61,"votes":3,"question":"Como anidar 'select' independientes?","tab":"week"}
+{"answers":2,"views":60,"votes":0,"question":"Logica Programacion","tab":"week"}
+{"answers":3,"views":28,"votes":2,"question":".prop('disabled', true); no funciona en funcion Each JS","tab":"week"}
+{"answers":4,"views":28,"votes":0,"question":"\u00bfC\u00f3mo puedo hacer para ocultar un peque\u00f1o mapa de google cuando se ingrese al sitio web desde un celular?","tab":"week"}
+{"answers":1,"views":46,"votes":2,"question":"Llamar funci\u00f3n PHP desde l\u00ednea de comandos Yii","tab":"week"}
+{"answers":1,"views":46,"votes":0,"question":"Adaptar imagen a carousel bootstrap","tab":"week"}
+{"answers":1,"views":58,"votes":4,"question":"Calcular diferencia de horas php","tab":"week"}
+{"answers":1,"views":35,"votes":0,"question":"Con que librer\u00eda y como puedo hacer una petici\u00f3n HTTP en C++","tab":"week"}
+{"answers":1,"views":27,"votes":0,"question":"Error en JAVASCRIPT","tab":"week"}
+{"answers":2,"views":34,"votes":5,"question":"array_merge dentro de un foreach","tab":"week"}
+{"answers":2,"views":55,"votes":-1,"question":"\u00bfC\u00f3mo elevar a una potencia a toda una ecuacion?","tab":"week"}
+{"answers":1,"views":33,"votes":0,"question":"Cambiar el contenido de las columnas en DataGridView","tab":"week"}
+{"answers":2,"views":16,"votes":0,"question":"Ideas de como validar fechas y horas agendadas mediante solo input","tab":"hot"}
+{"answers":1,"views":12,"votes":0,"question":"\u00bfForEach no funciona en javscript?","tab":"hot"}
+{"answers":2,"views":18,"votes":0,"question":"Como puedo evitar Registro Duplicado en MySQL?","tab":"hot"}
+{"answers":1,"views":12,"votes":0,"question":"como redondear un jbutton en java?","tab":"hot"}
+{"answers":1,"views":11,"votes":0,"question":"Guardar elemento DOM como IMG","tab":"hot"}
+{"answers":1,"views":17,"votes":0,"question":"como filtrar un array que contiene arrays con el valor de un input search [en espera]","tab":"hot"}
+{"answers":1,"views":12,"votes":0,"question":"Multi Tarea en Arduino","tab":"hot"}
+{"answers":1,"views":24,"votes":0,"question":"Existe alguna manera de notificarme a trav\u00e9s de correo electr\u00f3nico cuando un usuario nuevo se registra en mi app?","tab":"hot"}
+{"answers":1,"views":15,"votes":0,"question":"Duda con consulta y foreach","tab":"hot"}
+{"answers":2,"views":22,"votes":2,"question":"Que significan las llaves en una consulta con WHERE id = {$id}?","tab":"hot"}
+{"answers":1,"views":13,"votes":0,"question":"Dibujar la media en un grafico con matplotlib","tab":"hot"}
+{"answers":0,"views":22,"votes":0,"question":"No logro mostrar el resultado de 2 consultas SQL unidas","tab":"hot"}
+{"answers":0,"views":19,"votes":-1,"question":"Internet zona muerta! [en espera]","tab":"hot"}
+{"answers":0,"views":16,"votes":0,"question":"uso correcto de having by","tab":"hot"}
+{"answers":1,"views":25,"votes":0,"question":"crear un vector de 30 numeros aleatorios, obtener la media, y el n\u00famero mayor y menor en c","tab":"hot"}
+{"answers":2,"views":30,"votes":0,"question":"Env\u00edo de Datos Formulario HTML, PHP, MySQL","tab":"hot"}
+{"answers":0,"views":11,"votes":-1,"question":"trigger que lance una excepcion que indique que no se pueden crear dos salidas iguales","tab":"hot"}
+{"answers":0,"views":12,"votes":0,"question":"como hago para subir una imagen en java? tengo el siguiente codigo","tab":"hot"}
+{"answers":1,"views":30,"votes":0,"question":"\u00bf@foreach en laravel que vaya de 2 objetos en 2 objetos?","tab":"hot"}
+{"answers":0,"views":12,"votes":0,"question":"Problemas con dos autoload en PHP","tab":"hot"}
+{"answers":2,"views":26,"votes":0,"question":"Comprobar dias del 1 al 5 de cada mes","tab":"hot"}
+{"answers":0,"views":14,"votes":2,"question":"Crear usb live con datos persistentes a trav\u00e9s de terminal","tab":"hot"}
+{"answers":1,"views":24,"votes":0,"question":"Almacenar un objeto en un arreglo de string","tab":"hot"}
+{"answers":0,"views":24,"votes":0,"question":"M\u00e9todo authenticate ha dejado de funcionar","tab":"hot"}
+{"answers":0,"views":13,"votes":0,"question":"Dar estilo a un elemento dependiendo del n\u00famero de radio buttons marcados","tab":"hot"}
+{"answers":1,"views":29,"votes":1,"question":"Consulta del mayor n\u00famero de ventas por cada vendedor","tab":"hot"}
+{"answers":1,"views":32,"votes":0,"question":"\u00bfComo almacenar variable en JavaScript hasta recargar pagina?","tab":"hot"}
+{"answers":1,"views":40,"votes":0,"question":"\u00bfPor qu\u00e9 mi condicional if no funciona correctamente?","tab":"hot"}
+{"answers":2,"views":48,"votes":2,"question":"Como arrojar excepciones usando operador ternario en Python","tab":"hot"}
+{"answers":1,"views":24,"votes":0,"question":"Linkear por medio de clase o metodo archivo css en php","tab":"hot"}
+{"answers":1,"views":17,"votes":0,"question":"\u00bfC\u00f3mo puedo mostrar datos de una cadena con Firebase?","tab":"hot"}
+{"answers":1,"views":24,"votes":1,"question":"\u00bfC\u00f3mo mostrar datos seg\u00fan la categor\u00eda de una URL mediante switch case PHP?","tab":"hot"}
+{"answers":1,"views":13,"votes":0,"question":"Grupo radio con funcion muestra el value=\u201ctexto\u201d al seleccionar, con checked=\u201cyes\u201d por defecto tendr\u00eda que mostrarlo tambien","tab":"hot"}
+{"answers":1,"views":16,"votes":0,"question":"Como poner disponible los datos del Usuario para todos los m\u00e9todos de un controlador Laravel","tab":"hot"}
+{"answers":2,"views":32,"votes":1,"question":"C\u00f3mo establecer una relaci\u00f3n many-to-many en laravel","tab":"hot"}
+{"answers":1,"views":17,"votes":0,"question":"\u00bfComo actualizo un bool en un archivo .h?","tab":"hot"}
+{"answers":3,"views":16,"votes":2,"question":"\u00bfPor qu\u00e9 en una funcion anidada debo retornarla en su funci\u00f3n principal?","tab":"hot"}
+{"answers":2,"views":55,"votes":-1,"question":"\u00bfC\u00f3mo elevar a una potencia a toda una ecuacion?","tab":"hot"}
+{"answers":0,"views":18,"votes":0,"question":"Fallo en el c\u00e1lculo del Coeficiente de correlaci\u00f3n","tab":"hot"}
+{"answers":1,"views":17,"votes":0,"question":"Cual es la jerarqu\u00eda (IMPORTANCIA) en un conjunto de if anidados?","tab":"hot"}
+{"answers":0,"views":16,"votes":0,"question":"Pasar una variable con valor unico a otra clase","tab":"hot"}
+{"answers":3,"views":38,"votes":0,"question":"Base de Datos en Access direccionar ruta para exportar consultas a excel","tab":"hot"}
+{"answers":1,"views":19,"votes":3,"question":"(Overloading) - Sobrecargar Operadores en Python","tab":"hot"}
+{"answers":3,"views":20,"votes":1,"question":"\u00bfC\u00f3mo contar los registros de un dato especifico usando sentencias preparadas MySQLi (orientado a objetos)?","tab":"hot"}
+{"answers":0,"views":11,"votes":-1,"question":"Problema con imagen de informe que se corta en reportviewer","tab":"hot"}
+{"answers":1,"views":30,"votes":0,"question":"C\u00f3mo evitar que se muestre un objeto en un Adapter que lleno a trav\u00e9s de una base de datos","tab":"hot"}
+{"answers":1,"views":18,"votes":0,"question":"Como crear un oyente de teclado solo para la tecla ENTER?","tab":"hot"}
+{"answers":3,"views":41,"votes":0,"question":"Extraer nada m\u00e1s los 4 primeros n\u00fameros de una cadena PHP","tab":"hot"}
+{"answers":5,"views":110,"votes":6,"question":"\u00bfC\u00f3mo realizar el efecto de leer mas?","tab":"month"}
+{"answers":5,"views":104,"votes":6,"question":"String en java, \u00bfes m\u00e1s eficiente crear o asignar?","tab":"month"}
+{"answers":2,"views":354,"votes":13,"question":"\u00bfHay alguna forma de provocar dos cambios pulsando en un \u00fanico label?","tab":"month"}
+{"answers":5,"views":81,"votes":4,"question":"Ocultar una etiqueta div en HTML","tab":"month"}
+{"answers":2,"views":199,"votes":4,"question":"\u00bfC\u00f3mo editar una p\u00e1gina externa a trav\u00e9s de un iframe sin acceso denegado?","tab":"month"}
+{"answers":3,"views":118,"votes":4,"question":"\u00bfCual es la diferencia entre rand y srand?","tab":"month"}
+{"answers":3,"views":72,"votes":4,"question":"\u00bfC\u00f3mo funcionan estas combinaciones en css?","tab":"month"}
+{"answers":4,"views":138,"votes":6,"question":"\u00bfC\u00f3mo crear un slider sencillo de marcador de juego online?","tab":"month"}
+{"answers":4,"views":77,"votes":0,"question":"variables globales en c++","tab":"month"}
+{"answers":4,"views":57,"votes":4,"question":"Tama\u00f1o de letra en HTML","tab":"month"}
+{"answers":4,"views":91,"votes":6,"question":"\u00bfC\u00f3mo convertir datos en porcentajes y en dolares?","tab":"month"}
+{"answers":3,"views":40,"votes":7,"question":"\u00bfC\u00f3mo pasar un arreglo vac\u00edo por ajax en php?","tab":"month"}
+{"answers":3,"views":63,"votes":5,"question":"Leer por consola CSharp","tab":"month"}
+{"answers":2,"views":213,"votes":9,"question":"\u00bfC\u00f3mo evitar el acceso aun sitio web externo si no es redireccionado desde mi sitio?","tab":"month"}
+{"answers":4,"views":70,"votes":4,"question":"Como obtener parte de una url de un string en asp.net c#?","tab":"month"}
+{"answers":1,"views":292,"votes":6,"question":"Como actualizar tabla ajax php sql server?","tab":"month"}
+{"answers":5,"views":39,"votes":2,"question":"No se guarda la var en js","tab":"month"}
+{"answers":4,"views":57,"votes":2,"question":"No funciona el Bootstrap en Angular CLI v. 6.1.2","tab":"month"}
+{"answers":0,"views":523,"votes":1,"question":"Angular 5 common.js:263 Uncaught ReferenceError: $st is not defined [cerrada]","tab":"month"}
+{"answers":3,"views":175,"votes":2,"question":"No reconoce js para la extension","tab":"month"}
+{"answers":4,"views":49,"votes":5,"question":"\u00bfPor qu\u00e9 en JavaScript al hacer document.write de un appendChild, me muestra este resultado?","tab":"month"}
+{"answers":2,"views":62,"votes":3,"question":"Ayuda php recepcione dos fechas y muestre el fin de mes en rojo","tab":"month"}
+{"answers":3,"views":93,"votes":0,"question":"\u00bfEs posible capturar un clic y detener su ejecuci\u00f3n?","tab":"month"}
+{"answers":2,"views":252,"votes":4,"question":"Servidor Mysql en localhost no funciona","tab":"month"}
+{"answers":5,"views":71,"votes":1,"question":"Ajustar Columnas de 2 tablas HTML","tab":"month"}
+{"answers":2,"views":53,"votes":3,"question":"Retorno de dos valores en JAVA","tab":"month"}
+{"answers":5,"views":48,"votes":1,"question":"Reiniciar ciclo while JavaScript","tab":"month"}
+{"answers":2,"views":61,"votes":4,"question":"Como puedo mostrar el valor de una variable por pantalla dentro de un texto en c#? [cerrada]","tab":"month"}
+{"answers":4,"views":60,"votes":4,"question":"\u00bfPorque se recomienda utilizar m\u00e9todos getter y setter en TypeScript?","tab":"month"}
+{"answers":3,"views":59,"votes":3,"question":"\u00bfComo imprimir un array de punteros sin conocer su tama\u00f1o?","tab":"month"}
+{"answers":1,"views":57,"votes":4,"question":"Aplicacion en C# inicie en Textbox en especifico","tab":"month"}
+{"answers":4,"views":56,"votes":4,"question":"\u00bfC\u00f3mo insertar datos despu\u00e9s de 48 horas?","tab":"month"}
+{"answers":2,"views":54,"votes":2,"question":"Como puedo armar una funcion predicado cuando tengo que elegir entre varios opciones","tab":"month"}
+{"answers":2,"views":114,"votes":4,"question":"ComboBox en DataGridView","tab":"month"}
+{"answers":1,"views":66,"votes":3,"question":"\u00bfPor qu\u00e9 al instanciar una clase externa, no me deja acceder a sus m\u00e9todos \u201cstatic\u201d y cuando les remuevo el \u201cstatic\u201d, s\u00ed?","tab":"month"}
+{"answers":3,"views":108,"votes":1,"question":"\u00bfcomparar objetos en Java?","tab":"month"}
+{"answers":3,"views":50,"votes":4,"question":"\u00bfQue alternativas tengo para hacer una transicion de un degradado en un bot\u00f3n?","tab":"month"}
+{"answers":3,"views":38,"votes":2,"question":"Desplazarme entre componentes (TextBox y Botones) usando TAB","tab":"month"}
+{"answers":3,"views":46,"votes":2,"question":"\u00bfComo comparar campo de un registro actual con el siguiente, con el objetivo de de saber si est\u00e1 repetido o no?","tab":"month"}
+{"answers":4,"views":58,"votes":4,"question":"Averiguar si un div esta lleno","tab":"month"}
+{"answers":1,"views":58,"votes":2,"question":"como trabajar con patrones de comillas dobles","tab":"month"}
+{"answers":4,"views":72,"votes":1,"question":"De qu\u00e9 manera podr\u00eda contar la cantidad de veces que el signo + se repite en un dato String","tab":"month"}
+{"answers":3,"views":92,"votes":2,"question":"En HTML, \u00bfC\u00f3mo puedo adaptar el contenido al ancho de la pantalla?","tab":"month"}
+{"answers":3,"views":71,"votes":0,"question":"\u00bfC\u00f3mo evitar que vean los datos que generan de la consulta en la URL?","tab":"month"}
+{"answers":1,"views":91,"votes":1,"question":"java.lang.RuntimeException: Unable to start activity, java.lang.NullPointerException en Android Studio","tab":"month"}
+{"answers":3,"views":54,"votes":4,"question":"\u00bfC\u00f3mo hacer un bucle en SQL?","tab":"month"}
+{"answers":3,"views":88,"votes":1,"question":"evaluar multiples variables en una sentencia if [cerrada]","tab":"month"}
+{"answers":4,"views":53,"votes":2,"question":"Mostrar el primer elemento de un array","tab":"month"}
+{"answers":2,"views":213,"votes":9,"question":"\u00bfC\u00f3mo evitar el acceso aun sitio web externo si no es redireccionado desde mi sitio?","tab":"featured"}
+{"answers":0,"views":63,"votes":1,"question":"Error de falta de memoria","tab":"featured"}
+{"answers":1,"views":4,"votes":0,"question":"Forma correcta de ocultar un <input> en HTML usando javascript","tab":"javascript"}
+{"answers":0,"views":3,"votes":0,"question":"Dada una lista de n\u00fameros enteros no negativos y una suma objetivo, encuentre un par de n\u00fameros que sumen a la suma objetivo","tab":"javascript"}
+{"answers":1,"views":1,"votes":0,"question":"\u00bfForEach no funciona en javscript?","tab":"javascript"}
+{"answers":2,"views":1,"votes":0,"question":"Ideas de como validar fechas y horas agendadas mediante solo input","tab":"javascript"}
+{"answers":2,"views":1,"votes":0,"question":"Como puedo evitar Registro Duplicado en MySQL?","tab":"javascript"}
+{"answers":1,"views":1,"votes":0,"question":"como filtrar un array que contiene arrays con el valor de un input search [en espera]","tab":"javascript"}
+{"answers":1,"views":1,"votes":0,"question":"Grupo radio con funcion muestra el value=\u201ctexto\u201d al seleccionar, con checked=\u201cyes\u201d por defecto tendr\u00eda que mostrarlo tambien","tab":"javascript"}
+{"answers":1,"views":3,"votes":0,"question":"\u00bfComo almacenar variable en JavaScript hasta recargar pagina?","tab":"javascript"}
+{"answers":0,"views":8,"votes":0,"question":"Algunas teclas no funcionan en el evento keyup en javascript","tab":"javascript"}
+{"answers":0,"views":9,"votes":-1,"question":"Alguien sabe como hacer scrap con Js","tab":"javascript"}
+{"answers":3,"views":1,"votes":2,"question":"\u00bfPor qu\u00e9 en una funcion anidada debo retornarla en su funci\u00f3n principal?","tab":"javascript"}
+{"answers":1,"views":1,"votes":0,"question":"\u00bfC\u00f3mo puedo mostrar datos de una cadena con Firebase?","tab":"javascript"}
+{"answers":0,"views":2,"votes":0,"question":"No me ejecutan los scripts en Laravel 5.6","tab":"javascript"}
+{"answers":0,"views":1,"votes":0,"question":"Alguien sabe porque me da error?","tab":"javascript"}
+{"answers":2,"views":3,"votes":0,"question":"Como identificar valores en un string","tab":"javascript"}
+{"answers":1,"views":1,"votes":1,"question":"Eliminar duplicados de un arreglo de objetos JSON en javascript (Angular 5)","tab":"javascript"}
+{"answers":0,"views":8,"votes":0,"question":"A que se debe este error: fatal: cannot update the ref 'HEAD': unable to append to '.git\/logs\/HEAD': Permission denied --en Windows","tab":"javascript"}
+{"answers":3,"views":2,"votes":-1,"question":"funcion simple de obtener el valor de un input","tab":"javascript"}
+{"answers":4,"views":3,"votes":0,"question":"validar un numero con javascrip","tab":"javascript"}
+{"answers":1,"views":4,"votes":0,"question":"C\u00f3mo eliminar varios divs que antes no existian?","tab":"javascript"}
+{"answers":1,"views":2,"votes":0,"question":"\u00bfPorque me agrega la clase next left en mi carousel de boostrap cuando le indico que me agregue mi clase active en mi carousel de boostrap?","tab":"javascript"}
+{"answers":2,"views":3,"votes":2,"question":"Javascript \u00bfC\u00f3mo puedo comprobar que dos objetos JSON sean iguales?","tab":"javascript"}
+{"answers":1,"views":2,"votes":0,"question":"\u00bfC\u00f3mo cambiar el scroll actual a uno regular?","tab":"javascript"}
+{"answers":2,"views":3,"votes":1,"question":"Problema con NavBar \u201cbrinca\u201d al hacer Scroll (shrink)","tab":"javascript"}
+{"answers":0,"views":8,"votes":0,"question":"\u00bfEncontrar archivo MANIFEST?","tab":"javascript"}
+{"answers":4,"views":5,"votes":1,"question":"Editar Texto en html","tab":"javascript"}
+{"answers":1,"views":2,"votes":0,"question":"Escribir archivo txt con salto de linea","tab":"javascript"}
+{"answers":1,"views":4,"votes":2,"question":"Agregar elementos en dos listas al mismo tiempo","tab":"javascript"}
+{"answers":3,"views":3,"votes":3,"question":"Que significa '&quot' en el codigo?","tab":"javascript"}
+{"answers":1,"views":1,"votes":0,"question":"Enviar correo desde Ionic","tab":"javascript"}
+{"answers":1,"views":4,"votes":-1,"question":"P\u00e1gina web para compartir codigo o script [en espera]","tab":"javascript"}
+{"answers":1,"views":2,"votes":0,"question":"\u00bfJavaScript cambiar el tama\u00f1o de un contenedor en tiempo real con el rat\u00f3n?","tab":"javascript"}
+{"answers":1,"views":2,"votes":0,"question":"funcion mostrar valor de seleccion radio, conflicto entre varios grupos radio","tab":"javascript"}
+{"answers":0,"views":1,"votes":0,"question":"\u00bfes posible visualizar con drop zone archivos que se encuentren en el servidor?","tab":"javascript"}
+{"answers":0,"views":3,"votes":0,"question":"\u00bfSoy un pythonista y quisiera una opinion profesional? [en espera]","tab":"javascript"}
+{"answers":2,"views":6,"votes":0,"question":"Se puede convertir un archivo TXT a JSON?? Algun ejemplo de funcion JavaScript. Soy novato","tab":"javascript"}
+{"answers":1,"views":3,"votes":-2,"question":"Matriz de enteros [en espera]","tab":"javascript"}
+{"answers":1,"views":2,"votes":1,"question":"Mostrar tabla de mysql en php,javascrip","tab":"javascript"}
+{"answers":1,"views":3,"votes":1,"question":"JavaScript: .push is not a function","tab":"javascript"}
+{"answers":0,"views":1,"votes":0,"question":"c\u00f3mo validar campos con if o switch mediante boton llamado \u201csiguiente paso\u201d? en JavaScript?","tab":"javascript"}
+{"answers":3,"views":3,"votes":0,"question":"Poner por defecto el valor seleccionar con una funcion javascript","tab":"javascript"}
+{"answers":2,"views":3,"votes":2,"question":"hover con jQuery al dar click en div","tab":"javascript"}
+{"answers":1,"views":1,"votes":0,"question":"Acceder a una variable de metodo $.ajax","tab":"javascript"}
+{"answers":2,"views":2,"votes":1,"question":"Como hago una variable del mismo tipo de la clase en Javascript?","tab":"javascript"}
+{"answers":1,"views":3,"votes":0,"question":"\u00bf Como ajustar tama\u00f1o y contenido de iframe cuando cambio las dimensiones del navegador dinamicamente?","tab":"javascript"}
+{"answers":2,"views":2,"votes":0,"question":"Moverme de p\u00e1gina cuando selecciono una opci\u00f3n en un select","tab":"javascript"}
+{"answers":1,"views":3,"votes":0,"question":"\u00bfComo esperar el retorno de una funcion con async-await? (asincronismo - javascript)","tab":"javascript"}
+{"answers":0,"views":1,"votes":0,"question":"Hacer una polylinea con jquery gmaps","tab":"javascript"}
+{"answers":1,"views":1,"votes":0,"question":"Error al actualizar varios clientes con Socket.io","tab":"javascript"}
+{"answers":1,"views":2,"votes":3,"question":"Funcion para concatenar datos de tabla html y jquery","tab":"javascript"}
+{"answers":0,"views":4,"votes":0,"question":"\u00bfEncender Flashlight con google vision?","tab":"java"}
+{"answers":1,"views":1,"votes":0,"question":"como redondear un jbutton en java?","tab":"java"}
+{"answers":1,"views":9,"votes":0,"question":"Como puedo desactivar la pantalla t\u00e1ctil en un m\u00e9todo","tab":"java"}
+{"answers":1,"views":2,"votes":0,"question":"Existe alguna manera de notificarme a trav\u00e9s de correo electr\u00f3nico cuando un usuario nuevo se registra en mi app?","tab":"java"}
+{"answers":0,"views":4,"votes":0,"question":"UCanAccess \u201cusuario no tiene privilegios suficientes o objeto no encontrado\u201d","tab":"java"}
+{"answers":0,"views":5,"votes":0,"question":"\u00bfHacer que una figura siga el mouse pero solo se mueva en c\u00edrculos, es decir, como un objeto peque\u00f1o en \u00f3rbita con un objeto mas grande JAVA NETBEANS?","tab":"java"}
+{"answers":0,"views":1,"votes":0,"question":"\u00bfComo hacer una captura de pantalla mediante c\u00f3digo? Android Studio","tab":"java"}
+{"answers":0,"views":7,"votes":0,"question":"C\u00f3mo llamar a muchas tareas largas en android?","tab":"java"}
+{"answers":1,"views":2,"votes":0,"question":"Almacenar un objeto en un arreglo de string","tab":"java"}
+{"answers":0,"views":1,"votes":0,"question":"Crear metodos que generalicen la Alta, Baja y Modificacion de varios objetos","tab":"java"}
+{"answers":1,"views":1,"votes":0,"question":"Como crear un oyente de teclado solo para la tecla ENTER?","tab":"java"}
+{"answers":0,"views":8,"votes":0,"question":"\u00bfComo puedo mostrar las categor\u00edas de x productos, las cuales a su vez tienen hijos (subcategorias), y estos tambien tiene hijos? Android studio","tab":"java"}
+{"answers":1,"views":1,"votes":0,"question":"\u00bfComo cambiar tama\u00f1o de linearlayout con porcentajes en android studio?","tab":"java"}
+{"answers":2,"views":3,"votes":0,"question":"Como identificar valores en un string","tab":"java"}
+{"answers":0,"views":1,"votes":-1,"question":"\u00bfCuales son las mejores librer\u00edas para mapas offline en android?","tab":"java"}
+{"answers":0,"views":9,"votes":1,"question":"Hibernate @ManyToMany dudas","tab":"java"}
+{"answers":1,"views":3,"votes":0,"question":"C\u00f3mo evitar que se muestre un objeto en un Adapter que lleno a trav\u00e9s de una base de datos","tab":"java"}
+{"answers":1,"views":3,"votes":2,"question":"Mini-Max Sum Hacker Rank","tab":"java"}
+{"answers":0,"views":1,"votes":0,"question":"Primefaces 5 con JSF enviar datos a otra vista desde una tabla","tab":"java"}
+{"answers":0,"views":4,"votes":0,"question":"Forma correcta de usar un Resultmap en myBatis xml","tab":"java"}
+{"answers":2,"views":1,"votes":1,"question":"\u00bfC\u00f3mo enviar par\u00e1metros a trav\u00e9s de clases creadas mediante WSDL generadas con jax-ws?","tab":"java"}
+{"answers":0,"views":3,"votes":0,"question":"Problema con Neatbeans","tab":"java"}
+{"answers":0,"views":3,"votes":0,"question":"Widget funciona en android 6.0.1 pero en otras versiones no","tab":"java"}
+{"answers":1,"views":2,"votes":0,"question":"Cargar JLabel desde MySQL","tab":"java"}
+{"answers":0,"views":3,"votes":0,"question":"Solicitud HTTP POST en java no vuelca la respuesta?","tab":"java"}
+{"answers":0,"views":2,"votes":0,"question":"Problemas con Rutas al crear el JAR","tab":"java"}
+{"answers":0,"views":2,"votes":-1,"question":"Para qu\u00e9 sirve Spring? [en espera]","tab":"java"}
+{"answers":1,"views":2,"votes":0,"question":"Escribir archivo txt con salto de linea","tab":"java"}
+{"answers":0,"views":4,"votes":0,"question":"\u00bfComo cargar datos devueltos con spring mvc en una grid de ExtJs?","tab":"java"}
+{"answers":2,"views":1,"votes":0,"question":"\u00bfComo puedo hacer que al momento de ingresar un elemento a una arreglo en java este primero verifique si se encuentra?","tab":"java"}
+{"answers":1,"views":2,"votes":2,"question":"\u00bfComo puedo hacer un try catch y que me repita la opcion que estoy haciendo?","tab":"java"}
+{"answers":0,"views":3,"votes":0,"question":"\u00bfSaben como mostrar una imagen guardada en la base de datos?","tab":"java"}
+{"answers":1,"views":4,"votes":0,"question":"Exo player al cambiar de orientacion video comienza desde el principio.","tab":"java"}
+{"answers":0,"views":2,"votes":0,"question":"Realizar formato imprimible desde JAVA 8","tab":"java"}
+{"answers":0,"views":9,"votes":2,"question":"C\u00f3mo puedo utilizar PHP JavaBridge","tab":"java"}
+{"answers":1,"views":2,"votes":0,"question":"\u00bfporque al usar el nextInt() automaticamente salta de linea en Java?","tab":"java"}
+{"answers":1,"views":3,"votes":2,"question":"Fallo al mostrar listado de datos en Java","tab":"java"}
+{"answers":3,"views":6,"votes":3,"question":"No me funciona el promedio dentro del for","tab":"java"}
+{"answers":1,"views":4,"votes":0,"question":"No me muesta nada la hora de consultar la informaci\u00f3n en la interfaz de Java","tab":"java"}
+{"answers":0,"views":2,"votes":0,"question":"Descarga fichero jsf 2.2 primefaces","tab":"java"}
+{"answers":1,"views":1,"votes":1,"question":"C\u00f3mo generar correctamente archivo en Java (mysql)","tab":"java"}
+{"answers":1,"views":1,"votes":0,"question":"p:selectBooleanButton DENTRO DE p:tab JSF PRIMFACES (me da error, no me sale la acci\u00f3n de pulsar el bot\u00f3n)","tab":"java"}
+{"answers":2,"views":2,"votes":2,"question":"Cambiar el valor por anotaci\u00f3n en SpringBoot Json","tab":"java"}
+{"answers":1,"views":4,"votes":2,"question":"Porque al compilar en NetBeans no me devuelve nada?","tab":"java"}
+{"answers":1,"views":3,"votes":0,"question":"Imagen del marcador demasiado grande Google Maps","tab":"java"}
+{"answers":1,"views":3,"votes":1,"question":"\u00bfDonde se guardan los Logs de Java? \u00bfComo puedo elegir donde?","tab":"java"}
+{"answers":0,"views":1,"votes":0,"question":"Tengo problemas para terminar un ejercicio Maven Java","tab":"java"}
+{"answers":1,"views":3,"votes":-1,"question":"Ayuda para importar archivos csv en Java","tab":"java"}
+{"answers":0,"views":2,"votes":0,"question":"DriverManager.getConnection Din\u00e1micamente","tab":"java"}
+{"answers":0,"views":2,"votes":0,"question":"Error al pasar crear File","tab":"java"}
+{"answers":0,"views":4,"votes":0,"question":"Error carga del men\u00fa responsive al abrir el navegador","tab":"php"}
+{"answers":1,"views":7,"votes":0,"question":"Mostrar input segun privilegios","tab":"php"}
+{"answers":2,"views":1,"votes":0,"question":"Ideas de como validar fechas y horas agendadas mediante solo input","tab":"php"}
+{"answers":2,"views":1,"votes":0,"question":"Como puedo evitar Registro Duplicado en MySQL?","tab":"php"}
+{"answers":1,"views":1,"votes":0,"question":"Duda con consulta y foreach","tab":"php"}
+{"answers":0,"views":2,"votes":0,"question":"No logro mostrar el resultado de 2 consultas SQL unidas","tab":"php"}
+{"answers":2,"views":2,"votes":2,"question":"Que significan las llaves en una consulta con WHERE id = {$id}?","tab":"php"}
+{"answers":0,"views":1,"votes":0,"question":"Problemas con dos autoload en PHP","tab":"php"}
+{"answers":2,"views":1,"votes":0,"question":"Mantener el registro de un ComboBox en un formulario de editar","tab":"php"}
+{"answers":2,"views":3,"votes":0,"question":"Env\u00edo de Datos Formulario HTML, PHP, MySQL","tab":"php"}
+{"answers":2,"views":2,"votes":0,"question":"Comprobar dias del 1 al 5 de cada mes","tab":"php"}
+{"answers":1,"views":2,"votes":1,"question":"\u00bfC\u00f3mo mostrar datos seg\u00fan la categor\u00eda de una URL mediante switch case PHP?","tab":"php"}
+{"answers":1,"views":3,"votes":0,"question":"\u00bf@foreach en laravel que vaya de 2 objetos en 2 objetos?","tab":"php"}
+{"answers":0,"views":1,"votes":1,"question":"porque de una etiqueta <a> con ruta \u201cruta\/{{$var}}\/edit\u201d y un 'action': \u201cruta\/{{$var}} mi ruta final es: \u201d\u201cruta\/{{$var}}\/\u201druta\/{{$var}}?","tab":"php"}
+{"answers":1,"views":2,"votes":0,"question":"Linkear por medio de clase o metodo archivo css en php","tab":"php"}
+{"answers":0,"views":1,"votes":0,"question":"Problema con relacion DDBB MySQL y Eloquen","tab":"php"}
+{"answers":3,"views":2,"votes":1,"question":"\u00bfC\u00f3mo contar los registros de un dato especifico usando sentencias preparadas MySQLi (orientado a objetos)?","tab":"php"}
+{"answers":0,"views":2,"votes":0,"question":"No me ejecutan los scripts en Laravel 5.6","tab":"php"}
+{"answers":0,"views":1,"votes":0,"question":"Pasar una variable con valor unico a otra clase","tab":"php"}
+{"answers":3,"views":4,"votes":0,"question":"Extraer nada m\u00e1s los 4 primeros n\u00fameros de una cadena PHP","tab":"php"}
+{"answers":1,"views":1,"votes":0,"question":"Crear condicionales comparando fecha actual con fecha de registro","tab":"php"}
+{"answers":1,"views":2,"votes":0,"question":"\u00bfC\u00f3mo puedo obtener el GET del editor desde una URL amigable?","tab":"php"}
+{"answers":1,"views":4,"votes":1,"question":"Consulta e inserci\u00f3n de datos desde PHP \u00bfCual es el error?","tab":"php"}
+{"answers":2,"views":3,"votes":1,"question":"C\u00f3mo establecer una relaci\u00f3n many-to-many en laravel","tab":"php"}
+{"answers":0,"views":8,"votes":0,"question":"A que se debe este error: fatal: cannot update the ref 'HEAD': unable to append to '.git\/logs\/HEAD': Permission denied --en Windows","tab":"php"}
+{"answers":1,"views":2,"votes":0,"question":"Ayuda con arrays y sesiones PHP","tab":"php"}
+{"answers":2,"views":2,"votes":1,"question":"Consulta editar con PDO","tab":"php"}
+{"answers":1,"views":2,"votes":0,"question":"Error con header(location)","tab":"php"}
+{"answers":4,"views":3,"votes":0,"question":"validar un numero con javascrip","tab":"php"}
+{"answers":0,"views":2,"votes":0,"question":"Error en prepare() de una consulta preparada mysqli en PHP","tab":"php"}
+{"answers":2,"views":3,"votes":5,"question":"array_merge dentro de un foreach","tab":"php"}
+{"answers":1,"views":1,"votes":1,"question":"Error en consulta preparada de mysqli en PHP","tab":"php"}
+{"answers":1,"views":2,"votes":0,"question":"\u00bfC\u00f3mo cambiar el scroll actual a uno regular?","tab":"php"}
+{"answers":1,"views":3,"votes":0,"question":"porque no redirecciona el formulario php en remoto","tab":"php"}
+{"answers":1,"views":2,"votes":1,"question":"\u00bfC\u00f3mo acceder a contenido de array?","tab":"php"}
+{"answers":0,"views":1,"votes":0,"question":"Como corregir el error Uncaught exception 'PHPExcel_Reader_Exception'","tab":"php"}
+{"answers":4,"views":5,"votes":4,"question":"\u00bfC\u00f3mo insertar datos despu\u00e9s de 48 horas?","tab":"php"}
+{"answers":0,"views":8,"votes":0,"question":"\u00bfEncontrar archivo MANIFEST?","tab":"php"}
+{"answers":0,"views":7,"votes":0,"question":"Problemas al Instalar Laravel Homestead con Vagrant","tab":"php"}
+{"answers":3,"views":3,"votes":2,"question":"recorrer json desde php","tab":"php"}
+{"answers":0,"views":2,"votes":0,"question":"Evitar la edici\u00f3n manual de par\u00e1metros de la URL en PHP","tab":"php"}
+{"answers":1,"views":4,"votes":-1,"question":"P\u00e1gina web para compartir codigo o script [en espera]","tab":"php"}
+{"answers":1,"views":4,"votes":1,"question":"No cargan ficheros css","tab":"php"}
+{"answers":0,"views":1,"votes":0,"question":"Cambiar ra\u00edz de $_SERVER['DOCUMENT_ROOT']","tab":"php"}
+{"answers":1,"views":3,"votes":0,"question":"Evitar Warning: POST Content-Length al subir archivo","tab":"php"}
+{"answers":0,"views":4,"votes":0,"question":"Multiplicar un echo de PHP","tab":"php"}
+{"answers":1,"views":2,"votes":1,"question":"Mostrar tabla de mysql en php,javascrip","tab":"php"}
+{"answers":2,"views":2,"votes":1,"question":"Reedireccion de pagina con html","tab":"php"}
+{"answers":0,"views":2,"votes":0,"question":"\u00bfcomo puedo poner un archivo text de sql en php y que me respete los saltos de linea?","tab":"php"}
+{"answers":1,"views":2,"votes":0,"question":"Hoja de Estilos no reaccionan: PHP y CSS3","tab":"php"}
+{"answers":1,"views":4,"votes":0,"question":"Forma correcta de ocultar un <input> en HTML usando javascript","tab":"html"}
+{"answers":1,"views":7,"votes":0,"question":"Mostrar input segun privilegios","tab":"html"}
+{"answers":2,"views":1,"votes":0,"question":"Ideas de como validar fechas y horas agendadas mediante solo input","tab":"html"}
+{"answers":0,"views":2,"votes":0,"question":"No logro mostrar el resultado de 2 consultas SQL unidas","tab":"html"}
+{"answers":2,"views":1,"votes":0,"question":"Mantener el registro de un ComboBox en un formulario de editar","tab":"html"}
+{"answers":0,"views":1,"votes":1,"question":"porque de una etiqueta <a> con ruta \u201cruta\/{{$var}}\/edit\u201d y un 'action': \u201cruta\/{{$var}} mi ruta final es: \u201d\u201cruta\/{{$var}}\/\u201druta\/{{$var}}?","tab":"html"}
+{"answers":2,"views":3,"votes":0,"question":"Como pintar la mitad de pantalla y responsive en css boostrap 4?","tab":"html"}
+{"answers":1,"views":2,"votes":3,"question":"Duda \u201cVer c\u00f3digo fuente de la p\u00e1gina\u201d en navegadores","tab":"html"}
+{"answers":3,"views":2,"votes":-1,"question":"funcion simple de obtener el valor de un input","tab":"html"}
+{"answers":0,"views":1,"votes":0,"question":"Datatable loaded no funciona","tab":"html"}
+{"answers":2,"views":1,"votes":0,"question":"\u00bfComo puedo mostrar los valores null como una columna vacia?","tab":"html"}
+{"answers":1,"views":2,"votes":0,"question":"\u00bfC\u00f3mo cambiar el scroll actual a uno regular?","tab":"html"}
+{"answers":1,"views":2,"votes":1,"question":"\u00bfC\u00f3mo acceder a contenido de array?","tab":"html"}
+{"answers":0,"views":8,"votes":0,"question":"\u00bfEncontrar archivo MANIFEST?","tab":"html"}
+{"answers":4,"views":5,"votes":1,"question":"Editar Texto en html","tab":"html"}
+{"answers":1,"views":1,"votes":0,"question":"Boton de compartir en facebook con meta-tags","tab":"html"}
+{"answers":0,"views":2,"votes":0,"question":"Evitar la edici\u00f3n manual de par\u00e1metros de la URL en PHP","tab":"html"}
+{"answers":1,"views":4,"votes":2,"question":"Agregar elementos en dos listas al mismo tiempo","tab":"html"}
+{"answers":0,"views":1,"votes":2,"question":"\u00bfComo puedo generar un pdf horizontal con thymeleaf y spring?","tab":"html"}
+{"answers":1,"views":2,"votes":0,"question":"funcion mostrar valor de seleccion radio, conflicto entre varios grupos radio","tab":"html"}
+{"answers":0,"views":1,"votes":0,"question":"\u00bfQue API de mapas puedo usar para un website que no sea Google Maps? [en espera]","tab":"html"}
+{"answers":1,"views":3,"votes":1,"question":"JavaScript: .push is not a function","tab":"html"}
+{"answers":2,"views":2,"votes":1,"question":"Reedireccion de pagina con html","tab":"html"}
+{"answers":0,"views":2,"votes":0,"question":"\u00bfcomo puedo poner un archivo text de sql en php y que me respete los saltos de linea?","tab":"html"}
+{"answers":1,"views":2,"votes":0,"question":"Hoja de Estilos no reaccionan: PHP y CSS3","tab":"html"}
+{"answers":0,"views":1,"votes":0,"question":"c\u00f3mo validar campos con if o switch mediante boton llamado \u201csiguiente paso\u201d? en JavaScript?","tab":"html"}
+{"answers":1,"views":3,"votes":0,"question":"\u00bf Como ajustar tama\u00f1o y contenido de iframe cuando cambio las dimensiones del navegador dinamicamente?","tab":"html"}
+{"answers":4,"views":4,"votes":2,"question":"Fecha actual en input html","tab":"html"}
+{"answers":1,"views":2,"votes":3,"question":"Funcion para concatenar datos de tabla html y jquery","tab":"html"}
+{"answers":0,"views":2,"votes":2,"question":"Actualizar tabla SQL con documento Excel","tab":"html"}
+{"answers":2,"views":2,"votes":3,"question":"Validar varios input con una sola funcion","tab":"html"}
+{"answers":1,"views":2,"votes":2,"question":"\u00bfC\u00f3mo validar 1 o m\u00e1s campos de un formulario y lanzar alerta para notificar que no deben estar vacios?","tab":"html"}
+{"answers":1,"views":2,"votes":2,"question":"Selecionador Option predeterminada de una base de datos","tab":"html"}
+{"answers":1,"views":2,"votes":3,"question":"\u00bfPorqu\u00e9 ng-view no me funciona con AngularJS 1.7.2?","tab":"html"}
+{"answers":0,"views":2,"votes":0,"question":"Tablas HTML en SHELL unix","tab":"html"}
+{"answers":1,"views":1,"votes":1,"question":"Como hacer para eliminar un registro a trav\u00e9s de un modal","tab":"html"}
+{"answers":1,"views":2,"votes":1,"question":"Problemas para recortar bakcground image","tab":"html"}
+{"answers":1,"views":3,"votes":0,"question":"Error en consulta php mysql","tab":"html"}
+{"answers":0,"views":3,"votes":1,"question":"Como le hago para almacenar datos sin que se repita, y como agregar datos en un formulario.","tab":"html"}
+{"answers":3,"views":7,"votes":4,"question":"\u00bfC\u00f3mo funcionan estas combinaciones en css?","tab":"html"}
+{"answers":1,"views":2,"votes":0,"question":"Como mostrar valores con AJAX al cargar la pagina","tab":"html"}
+{"answers":0,"views":1,"votes":0,"question":"Tengo problemas para terminar un ejercicio Maven Java","tab":"html"}
+{"answers":1,"views":2,"votes":1,"question":"Problema con etiqueta requiered","tab":"html"}
+{"answers":4,"views":2,"votes":0,"question":"\u00bfC\u00f3mo puedo hacer para ocultar un peque\u00f1o mapa de google cuando se ingrese al sitio web desde un celular?","tab":"html"}
+{"answers":1,"views":3,"votes":1,"question":"Carrusel de fotos - prev next - que no considere las display: none","tab":"html"}
+{"answers":1,"views":5,"votes":0,"question":"Usar el Evento Onclick de una p\u00e1gina a otra","tab":"html"}
+{"answers":1,"views":4,"votes":0,"question":"Adaptar imagen a carousel bootstrap","tab":"html"}
+{"answers":1,"views":2,"votes":-1,"question":"Error al llamar a funci\u00f3n: Call to undefined function","tab":"html"}
+{"answers":0,"views":3,"votes":0,"question":"Elemento se borra al ser a\u00f1adido","tab":"html"}
+{"answers":0,"views":5,"votes":1,"question":"Es correcto \u201cMezclar\u201d c\u00f3digo php con HTML?","tab":"html"}
+{"answers":0,"views":8,"votes":0,"question":"formulario \u201cinteractivo\u201d en c#","tab":"c%23"}
+{"answers":0,"views":9,"votes":0,"question":"Desacoplando AspNet identity","tab":"c%23"}
+{"answers":0,"views":8,"votes":0,"question":"Ayuda con metodo buscar y pagedList C# MVC","tab":"c%23"}
+{"answers":0,"views":6,"votes":0,"question":"problemas con dataset y reportviewer (mysql)","tab":"c%23"}
+{"answers":1,"views":2,"votes":0,"question":"Codigo para tama\u00f1o de fuente","tab":"c%23"}
+{"answers":1,"views":1,"votes":0,"question":"\u00bfC\u00f3mo colocar imagenes en un select?","tab":"c%23"}
+{"answers":3,"views":3,"votes":1,"question":"Debo consultar un campo en un tabla y ver si existe un valor","tab":"c%23"}
+{"answers":1,"views":4,"votes":0,"question":"Bloquear entrada de teclado y solo perdmitir entrada de lector de codigo de barras","tab":"c%23"}
+{"answers":1,"views":2,"votes":0,"question":"\u00bfC\u00f3mo mostrar el progreso de un ProgressBar en Winforms haciendo uso de delegados?","tab":"c%23"}
+{"answers":1,"views":2,"votes":2,"question":"C# \u00bfComo Convertir string a System.IO.StreamWriter?","tab":"c%23"}
+{"answers":2,"views":3,"votes":2,"question":"Saber si existe un numero dentro de una variable","tab":"c%23"}
+{"answers":3,"views":2,"votes":2,"question":"Usar LIKE o LTRIM - SQL","tab":"c%23"}
+{"answers":0,"views":1,"votes":0,"question":"Alternativas a la hora de materializar un IEnumerable","tab":"c%23"}
+{"answers":0,"views":1,"votes":0,"question":"Fluent NHibernate agregar convencion para nombres de tablas que contienen punto en SQLite","tab":"c%23"}
+{"answers":3,"views":4,"votes":4,"question":"\u00bfC\u00f3mo puedo convertir un arreglo JSON en una List <T>?","tab":"c%23"}
+{"answers":2,"views":4,"votes":0,"question":"Busqueda de Menor no funciona adecuadamente","tab":"c%23"}
+{"answers":3,"views":3,"votes":0,"question":"Modificar una celda y guardar su modificacion desde un DataGridView","tab":"c%23"}
+{"answers":2,"views":2,"votes":0,"question":"Metodo que recibe datetime nulleable, cambiar formato a MM\/dd\/yyyy","tab":"c%23"}
+{"answers":0,"views":1,"votes":0,"question":"Problemas para crear controlador en Web API C#","tab":"c%23"}
+{"answers":0,"views":1,"votes":-3,"question":"Consulta \u00bfComo puedo hacer que un programa en C# lea un txt y por medio de un DatagridView separe por tiempos?","tab":"c%23"}
+{"answers":1,"views":3,"votes":3,"question":"Sumar contenido de filas de un DataGridView y despegarlo en un Textbox","tab":"c%23"}
+{"answers":1,"views":3,"votes":0,"question":"Como consumir https json con webform asp.net c#?","tab":"c%23"}
+{"answers":0,"views":4,"votes":0,"question":"Cuando leo archivos .csv c# no detecta los valores que contiene","tab":"c%23"}
+{"answers":1,"views":3,"votes":3,"question":"Devolver valor JSon en C#","tab":"c%23"}
+{"answers":0,"views":2,"votes":0,"question":"Barra de progreso .NET Razor C#","tab":"c%23"}
+{"answers":1,"views":3,"votes":0,"question":"Cambiar el contenido de las columnas en DataGridView","tab":"c%23"}
+{"answers":1,"views":4,"votes":0,"question":"Continuar un consecutivo C#","tab":"c%23"}
+{"answers":3,"views":4,"votes":0,"question":"Problema identificando proceso \u201c Process[] \u201d","tab":"c%23"}
+{"answers":1,"views":1,"votes":0,"question":"Exportar excel como Hoja de c\u00e1lculo xml 2003 con epplus","tab":"c%23"}
+{"answers":0,"views":2,"votes":0,"question":"comunicacion entre Visual Studio C # y un PLC","tab":"c%23"}
+{"answers":1,"views":3,"votes":0,"question":"Como ocultar el link de una pagina en asp?","tab":"c%23"}
+{"answers":0,"views":2,"votes":0,"question":"Perceptron de dos entradas","tab":"c%23"}
+{"answers":1,"views":2,"votes":0,"question":"Cambiar columna automaticamente EF","tab":"c%23"}
+{"answers":1,"views":3,"votes":0,"question":"Web service c# para android studio java","tab":"c%23"}
+{"answers":0,"views":1,"votes":0,"question":"No me reconoce la referencia de mi bibilioteca de clases","tab":"c%23"}
+{"answers":0,"views":1,"votes":0,"question":"Crear una clase c# desde un xsd","tab":"c%23"}
+{"answers":1,"views":2,"votes":0,"question":"Xamarin forms Only the original thread that created a view hierarchy can touch its views","tab":"c%23"}
+{"answers":0,"views":1,"votes":1,"question":"Es posible guardar libro de trabajo de excel en vsto c#?","tab":"c%23"}
+{"answers":1,"views":3,"votes":0,"question":"como pasar valor de una variable de .cs a una variable de javascript?","tab":"c%23"}
+{"answers":0,"views":1,"votes":0,"question":"xsd a clase cs de c# star","tab":"c%23"}
+{"answers":1,"views":3,"votes":0,"question":"\u00bfComo puedo filtrar los datos con fechas en C#?","tab":"c%23"}
+{"answers":0,"views":1,"votes":-3,"question":"tengo un data grid view que lleno desde un select, quiero capturar 2 columnas mas y guardarlo en una tabla en sql, como podria recorrerlo y guardarlo?","tab":"c%23"}
+{"answers":0,"views":1,"votes":0,"question":"Leer xls con eeplus","tab":"c%23"}
+{"answers":2,"views":5,"votes":1,"question":"Ejecutar funcion de PHP desde C#","tab":"c%23"}
+{"answers":0,"views":3,"votes":0,"question":"\u00bfC\u00f3mo consumir WCF (Webservice de C#) en una aplicaci\u00f3n de angular 4?","tab":"c%23"}
+{"answers":0,"views":2,"votes":0,"question":"Error con registros tipo bit","tab":"c%23"}
+{"answers":1,"views":1,"votes":0,"question":"\u00bfC\u00f3mo cambiar URL de respuesta en Headers.Location al implementar m\u00e9todo POST en Web Api Asp.Net?","tab":"c%23"}
+{"answers":0,"views":8,"votes":0,"question":"Xaf - Activar Appearance desde un bot\u00f3n","tab":"c%23"}
+{"answers":1,"views":4,"votes":0,"question":"Listview no cambia al a\u00f1adir elementos","tab":"c%23"}
+{"answers":1,"views":4,"votes":0,"question":"Error al Convertir una cadena tipo JSON a Clase en C#","tab":"c%23"}
+{"answers":1,"views":1,"votes":0,"question":"Guardar elemento DOM como IMG","tab":"jquery"}
+{"answers":1,"views":9,"votes":0,"question":"Problemas al cargar datepicker dentro de un div col-lg-pull de bootstrap","tab":"jquery"}
+{"answers":1,"views":2,"votes":0,"question":"\u00bfPorque me agrega la clase next left en mi carousel de boostrap cuando le indico que me agregue mi clase active en mi carousel de boostrap?","tab":"jquery"}
+{"answers":1,"views":2,"votes":0,"question":"\u00bfC\u00f3mo cambiar el scroll actual a uno regular?","tab":"jquery"}
+{"answers":4,"views":5,"votes":1,"question":"Editar Texto en html","tab":"jquery"}
+{"answers":3,"views":3,"votes":2,"question":"recorrer json desde php","tab":"jquery"}
+{"answers":0,"views":1,"votes":0,"question":"\u00bfes posible visualizar con drop zone archivos que se encuentren en el servidor?","tab":"jquery"}
+{"answers":2,"views":3,"votes":2,"question":"hover con jQuery al dar click en div","tab":"jquery"}
+{"answers":0,"views":1,"votes":0,"question":"Hacer una polylinea con jquery gmaps","tab":"jquery"}
+{"answers":1,"views":1,"votes":0,"question":"Error al actualizar varios clientes con Socket.io","tab":"jquery"}
+{"answers":2,"views":1,"votes":2,"question":"\u00bfcomo llamar un sweetalert desde un datatable.net?","tab":"jquery"}
+{"answers":1,"views":3,"votes":0,"question":"Como consumir https json con webform asp.net c#?","tab":"jquery"}
+{"answers":2,"views":4,"votes":0,"question":"Agrupar elementos de un JSON","tab":"jquery"}
+{"answers":3,"views":4,"votes":7,"question":"\u00bfC\u00f3mo pasar un arreglo vac\u00edo por ajax en php?","tab":"jquery"}
+{"answers":2,"views":5,"votes":5,"question":"\u00bfPor qu\u00e9 en un evento jQuery de JavaScript el tiempo de ejecuci\u00f3n de la primera instrucci\u00f3n cambia seg\u00fan el resto de las instrucciones?","tab":"jquery"}
+{"answers":0,"views":2,"votes":0,"question":"porque no se guardan los datos la primera vez que le doy guardar, pero si se guardan la segunda vez?","tab":"jquery"}
+{"answers":1,"views":2,"votes":1,"question":"Problemas para recortar bakcground image","tab":"jquery"}
+{"answers":1,"views":2,"votes":4,"question":"JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 13 of the JSON data","tab":"jquery"}
+{"answers":2,"views":3,"votes":1,"question":"Modificar atributos de elementos HTML creados dinamicamente con JavaScript","tab":"jquery"}
+{"answers":1,"views":3,"votes":1,"question":"Carrusel de fotos - prev next - que no considere las display: none","tab":"jquery"}
+{"answers":2,"views":2,"votes":0,"question":"\u00bfC\u00f3mo coger el resultado de dos declaraciones con JSON y devolverlo?","tab":"jquery"}
+{"answers":3,"views":5,"votes":1,"question":"\u00bfC\u00f6mo cambiar el estilo de un div que se crea din\u00e1micamente?","tab":"jquery"}
+{"answers":3,"views":3,"votes":0,"question":"\u00bfC\u00f3mo extraer valor en javascript y funcione en Internet Explorer?","tab":"jquery"}
+{"answers":3,"views":5,"votes":2,"question":"\u00bfC\u00f3mo hago para recorrer una variable con jQuery o JavaScript puro?","tab":"jquery"}
+{"answers":1,"views":2,"votes":0,"question":"Modularizar c\u00f3digo jquery","tab":"jquery"}
+{"answers":1,"views":4,"votes":0,"question":"\u00bfC\u00f3mo mostrar el progreso de una funci\u00f3n PHP a trav\u00e9s de AJAX?","tab":"jquery"}
+{"answers":0,"views":3,"votes":0,"question":"Heredar CSS de Objeto en jQuery","tab":"jquery"}
+{"answers":2,"views":2,"votes":0,"question":"Sumar unos minutos al obtenido actualmente","tab":"jquery"}
+{"answers":1,"views":5,"votes":0,"question":"No me entra en el IF","tab":"jquery"}
+{"answers":1,"views":3,"votes":2,"question":"Script no entra en condicional cuando deber\u00eda","tab":"jquery"}
+{"answers":2,"views":3,"votes":0,"question":"Eliminar elementos de un array en jquery","tab":"jquery"}
+{"answers":1,"views":5,"votes":0,"question":"Problemas de logica al agregar campos dinamicos - Ruby On Rails","tab":"jquery"}
+{"answers":1,"views":2,"votes":1,"question":"Agregar fila a una tabla con datos desde un modal","tab":"jquery"}
+{"answers":1,"views":2,"votes":1,"question":"duda con bootbox alert (jquery) y el llenado de su configuraci\u00f3n","tab":"jquery"}
+{"answers":2,"views":1,"votes":0,"question":"Alguna forma de que funcione un filtro HTML en Django con datos dinamicos","tab":"jquery"}
+{"answers":2,"views":3,"votes":1,"question":"\u00bfC\u00f3mo modificar el href de un enlace con JavaScript?","tab":"jquery"}
+{"answers":0,"views":5,"votes":0,"question":"Problemas al Contrar Click en un enlace <a> con Php, Jquery","tab":"jquery"}
+{"answers":0,"views":1,"votes":0,"question":"Validar JqxCombobox como requerido desde javascript","tab":"jquery"}
+{"answers":1,"views":3,"votes":2,"question":"\u00bfComo hago doble click en algun elemento de html y que me direccione a una pagina nueva con javascript?","tab":"jquery"}
+{"answers":2,"views":4,"votes":1,"question":"deshabilitar y habilitar \u201cbotones\u201d de la etiqueta \u201ca\u201d","tab":"jquery"}
+{"answers":0,"views":7,"votes":0,"question":"Pasar variable de js a twig","tab":"jquery"}
+{"answers":2,"views":4,"votes":3,"question":"\u00bfSe pueden usar variables en jQuery?","tab":"jquery"}
+{"answers":1,"views":4,"votes":4,"question":"\u00bfComo hacer din\u00e1mico la agregaci\u00f3n de clases a los td de una tabla?","tab":"jquery"}
+{"answers":0,"views":8,"votes":0,"question":"SQLite con phonegap","tab":"jquery"}
+{"answers":2,"views":4,"votes":0,"question":"Ignorar <input> oculto (hidden) en un formulario","tab":"jquery"}
+{"answers":0,"views":2,"votes":0,"question":"Evento para moverme entre secciones de una pagina HTML","tab":"jquery"}
+{"answers":1,"views":2,"votes":1,"question":"Al darle click en el boton desaparece los span","tab":"jquery"}
+{"answers":1,"views":3,"votes":0,"question":"Javascript no lee funciones, o no funciona si no se pone return false","tab":"jquery"}
+{"answers":1,"views":2,"votes":0,"question":"Generar Funcion que calcule cual es el sabado pasado, sabado de la semana en curso y el sabado proximo [cerrada]","tab":"jquery"}
+{"answers":1,"views":3,"votes":1,"question":"Animaci\u00f3n queda por detr\u00e1s del men\u00fa","tab":"jquery"}
+{"answers":1,"views":1,"votes":0,"question":"Dibujar la media en un grafico con matplotlib","tab":"python"}
+{"answers":0,"views":2,"votes":0,"question":"M\u00e9todo authenticate ha dejado de funcionar","tab":"python"}
+{"answers":1,"views":1,"votes":3,"question":"(Overloading) - Sobrecargar Operadores en Python","tab":"python"}
+{"answers":2,"views":1,"votes":0,"question":"Error al importar pandas_datareader, \u201cImportError: cannot import name 'is_list_like'\u201d","tab":"python"}
+{"answers":0,"views":1,"votes":0,"question":"Fallo en el c\u00e1lculo del Coeficiente de correlaci\u00f3n","tab":"python"}
+{"answers":2,"views":3,"votes":0,"question":"Como identificar valores en un string","tab":"python"}
+{"answers":2,"views":2,"votes":1,"question":"Evitar la sobreescritura de variables, SettingWithCopyWarning","tab":"python"}
+{"answers":1,"views":1,"votes":2,"question":"Decorador con parametros en Python","tab":"python"}
+{"answers":0,"views":1,"votes":1,"question":"\u00bfC\u00f3mo crear un marco de datos poco a poco para evitar problemas de memoria?","tab":"python"}
+{"answers":2,"views":4,"votes":2,"question":"Como arrojar excepciones usando operador ternario en Python","tab":"python"}
+{"answers":1,"views":2,"votes":1,"question":"\u00bfC\u00f3mo importar un archivo de Google Drive en un cuaderno de Google Colaboratory?","tab":"python"}
+{"answers":1,"views":2,"votes":0,"question":"Error en mi c\u00f3digo de Django en la parte de models.py","tab":"python"}
+{"answers":0,"views":3,"votes":0,"question":"\u00bfC\u00f3mo procesar datos sin que mi kernel muera?","tab":"python"}
+{"answers":1,"views":2,"votes":1,"question":"\u00bfC\u00f3mo verificar la versi\u00f3n de los modulos instalados?","tab":"python"}
+{"answers":1,"views":2,"votes":0,"question":"\u00bfcomo puedo ver el codigo de la libreria Tkinter en python","tab":"python"}
+{"answers":2,"views":4,"votes":1,"question":"Contar las palabras repetidas en un diccionario en Python","tab":"python"}
+{"answers":0,"views":1,"votes":0,"question":"Como Escoger Grupo django cuando se registra","tab":"python"}
+{"answers":1,"views":1,"votes":2,"question":"Mantener la sesion cuando descarga al capcha","tab":"python"}
+{"answers":0,"views":1,"votes":0,"question":"Error UnicodeDecodeError al intentar crear gr\u00e1fico con Matplotlib","tab":"python"}
+{"answers":0,"views":1,"votes":0,"question":"Como extraer las clases encontradas en una captura en tiempo real de object detction con la APi de tensorflow?","tab":"python"}
+{"answers":0,"views":1,"votes":0,"question":"Cifrado y descifrado de palabras con Python en Windows","tab":"python"}
+{"answers":0,"views":2,"votes":0,"question":"ciclo infinito despu\u00e9s de empaquetar con cx_frezee","tab":"python"}
+{"answers":0,"views":3,"votes":0,"question":"\u00bfSoy un pythonista y quisiera una opinion profesional? [en espera]","tab":"python"}
+{"answers":2,"views":3,"votes":2,"question":"\u00bfComo puedo mandar un archivo por un socket?","tab":"python"}
+{"answers":1,"views":4,"votes":0,"question":"Operaciones con fechas","tab":"python"}
+{"answers":1,"views":1,"votes":0,"question":"Acceder a una variable de metodo $.ajax","tab":"python"}
+{"answers":1,"views":3,"votes":0,"question":"Crear lista de dicconario desde iteracion en ciclo for","tab":"python"}
+{"answers":1,"views":2,"votes":2,"question":"Instanciaci\u00f3n mediante bucle a partir de datos externos (filas de csv)","tab":"python"}
+{"answers":1,"views":2,"votes":0,"question":"Dudas En Python - Parametros de usuario en query - Asignador en python","tab":"python"}
+{"answers":3,"views":5,"votes":2,"question":"\u00bfComo paso un json a un diccionario?","tab":"python"}
+{"answers":0,"views":6,"votes":0,"question":"django-crispy-forms no me estiliza los campos de valor m\u00faltiple","tab":"python"}
+{"answers":1,"views":2,"votes":0,"question":"como puedo solucionarlo list index out of range","tab":"python"}
+{"answers":1,"views":1,"votes":2,"question":"Python Pandas error \u201cValueError: can not merge DataFrame with instance of type <class 'list'>\u201d","tab":"python"}
+{"answers":1,"views":3,"votes":0,"question":"Calcular Comisiones","tab":"python"}
+{"answers":0,"views":3,"votes":-2,"question":"No me ejecuta este script","tab":"python"}
+{"answers":0,"views":9,"votes":0,"question":"ConnectionAbortedError, AttributeError: Django","tab":"python"}
+{"answers":0,"views":1,"votes":0,"question":"\u00bfC\u00f3mo establecer la ruta del guante en un objeto torch.load ()?","tab":"python"}
+{"answers":0,"views":3,"votes":0,"question":"Mascaras, coordenadas y loop en Python","tab":"python"}
+{"answers":1,"views":4,"votes":2,"question":"\u00bfC\u00f3mo hacer la forma m\u00e1s eficiente de contar las ocurrencias de elementos en una lista y generar una advertencia cuando no hay suficiente?","tab":"python"}
+{"answers":0,"views":1,"votes":0,"question":"Django URL Reset Password Error","tab":"python"}
+{"answers":1,"views":1,"votes":1,"question":"Conectar Python con la base de datos MySQL proporcionada por WAMP Server","tab":"python"}
+{"answers":0,"views":3,"votes":-2,"question":"\u00bfEs posible descifrar patrones?","tab":"python"}
+{"answers":0,"views":1,"votes":0,"question":"He intentado crear un asistente virtual en pyhton pero al iniciar mi codigo el microfono de mi computadora no lo detecta y termina con -1","tab":"python"}
+{"answers":1,"views":3,"votes":1,"question":"\u00bfC\u00f3mo dibujar un rect\u00e1ngulo sobre una imagen ya cargada con PIL?","tab":"python"}
+{"answers":0,"views":1,"votes":0,"question":"Problema con ejecutar una prueba de katalon en la consola de ubuntu","tab":"python"}
+{"answers":1,"views":4,"votes":0,"question":"Pasar codigo de Python a html","tab":"python"}
+{"answers":1,"views":1,"votes":0,"question":"Imprimir una n cantidad de datos de un archivo csv PYTHON","tab":"python"}
+{"answers":0,"views":1,"votes":0,"question":"\u00bfComo reprocesar la misma informacion cuando la respuesta de un Web Service Genere error?","tab":"python"}
+{"answers":0,"views":1,"votes":0,"question":"Use python in a html file [cerrada]","tab":"python"}
+{"answers":2,"views":3,"votes":1,"question":"Quiero verificar en Python si una palabra de un input existe en un vector","tab":"python"}
+{"answers":0,"views":5,"votes":0,"question":"Como parsear Json con retrofit","tab":"android-studio"}
+{"answers":1,"views":9,"votes":0,"question":"Como puedo desactivar la pantalla t\u00e1ctil en un m\u00e9todo","tab":"android-studio"}
+{"answers":0,"views":1,"votes":0,"question":"\u00bfComo hacer una captura de pantalla mediante c\u00f3digo? Android Studio","tab":"android-studio"}
+{"answers":0,"views":9,"votes":0,"question":"Solo reproduce una cantidad limitada de sonidos","tab":"android-studio"}
+{"answers":0,"views":8,"votes":0,"question":"\u00bfComo puedo mostrar las categor\u00edas de x productos, las cuales a su vez tienen hijos (subcategorias), y estos tambien tiene hijos? Android studio","tab":"android-studio"}
+{"answers":1,"views":1,"votes":0,"question":"\u00bfComo cambiar tama\u00f1o de linearlayout con porcentajes en android studio?","tab":"android-studio"}
+{"answers":0,"views":1,"votes":-1,"question":"\u00bfCuales son las mejores librer\u00edas para mapas offline en android?","tab":"android-studio"}
+{"answers":0,"views":2,"votes":0,"question":"Failed to resolve: com.google.android.gms: play-services: 15.0.1","tab":"android-studio"}
+{"answers":1,"views":2,"votes":0,"question":"Notificaciones tiempo real chat en android con firebase","tab":"android-studio"}
+{"answers":0,"views":8,"votes":0,"question":"Como trabaja el JobIntentService para Android Oreo y pre Oreo?","tab":"android-studio"}
+{"answers":0,"views":7,"votes":0,"question":"activity se reinicia en la opcion de multipantalla [en espera]","tab":"android-studio"}
+{"answers":1,"views":3,"votes":1,"question":"\u00bfComo puedo mandar el id de x producto al seleccionar el nombre de x producto en el spinner?","tab":"android-studio"}
+{"answers":0,"views":1,"votes":0,"question":"Problema al comparar key y obtener valor en HashMap","tab":"android-studio"}
+{"answers":2,"views":3,"votes":3,"question":"como quitar barra de notificaciones?","tab":"android-studio"}
+{"answers":1,"views":3,"votes":0,"question":"Imagen del marcador demasiado grande Google Maps","tab":"android-studio"}
+{"answers":0,"views":1,"votes":0,"question":"Error en android studio al intentar levantar servicio por BroadcastReceiver android 5.1 lollipop","tab":"android-studio"}
+{"answers":2,"views":5,"votes":0,"question":"Por que si un m\u00e9todo usa una interfaz como par\u00e1metro, al llamar a dicho m\u00e9todo desde otra clase hay que implementar dicha interfaz?","tab":"android-studio"}
+{"answers":0,"views":2,"votes":0,"question":"Problema al cargar imagenes en un Recyclerview con firebase","tab":"android-studio"}
+{"answers":1,"views":3,"votes":0,"question":"Web service c# para android studio java","tab":"android-studio"}
+{"answers":2,"views":4,"votes":1,"question":"Porque android studio no detecta mi dispositivo","tab":"android-studio"}
+{"answers":1,"views":3,"votes":1,"question":"Abrir WhatsApp desde webview android studio","tab":"android-studio"}
+{"answers":0,"views":1,"votes":0,"question":"Por que mi BroadcastReceiver no esta capturando eventos?","tab":"android-studio"}
+{"answers":0,"views":1,"votes":0,"question":"\u00bfcomo pasar datos de un web service a sqlite?","tab":"android-studio"}
+{"answers":0,"views":3,"votes":0,"question":"Problemas coger datos de diferentes TextView","tab":"android-studio"}
+{"answers":0,"views":1,"votes":0,"question":"\u00bfPorque no me funciona el proyecto visor PDF desarrollado en Android Studio?","tab":"android-studio"}
+{"answers":1,"views":2,"votes":0,"question":"android.view.InflateException: Binary XML file line #9: Erro inflating class fragment Caused by:","tab":"android-studio"}
+{"answers":1,"views":3,"votes":0,"question":"Como Llenar un ListView con un ArrayAdapter en un Fragment","tab":"android-studio"}
+{"answers":0,"views":9,"votes":0,"question":"Intentando generar un apk en Android Studio de una app que incluye CordovaLib migrada de Ionic da error","tab":"android-studio"}
+{"answers":1,"views":3,"votes":0,"question":"\u00bfComo hago un switch de dos botones flotantes que vienen de dos fragments?","tab":"android-studio"}
+{"answers":2,"views":3,"votes":-2,"question":"Me aparece el siguiente error en android studio","tab":"android-studio"}
+{"answers":0,"views":3,"votes":0,"question":"WebService - Problemas AsynTask","tab":"android-studio"}
+{"answers":1,"views":5,"votes":0,"question":"Comprobar si un elemento existe dentro de un Array","tab":"android-studio"}
+{"answers":0,"views":3,"votes":0,"question":"Usar localstorage o appcache en android con webview para una webapp exportada desde Construct2","tab":"android-studio"}
+{"answers":1,"views":1,"votes":0,"question":"Como reconectar un websocket en android?","tab":"android-studio"}
+{"answers":1,"views":1,"votes":0,"question":"\u00bfC\u00f3mo puedo abrir un vinculo dentro de la misma aplicaci\u00f3n en un WebView incluido en un fragment?","tab":"android-studio"}
+{"answers":0,"views":2,"votes":0,"question":"Su aplicacion de ha detenido WebView","tab":"android-studio"}
+{"answers":0,"views":1,"votes":0,"question":"En una aplicaci\u00f3n Android \u00bfC\u00f3mo visualizar un PanoWidget desde un bot\u00f3n con acci\u00f3n on click?","tab":"android-studio"}
+{"answers":0,"views":1,"votes":0,"question":"\u00bfComo cargar el detalle de un sitio en un solo fragment?","tab":"android-studio"}
+{"answers":2,"views":5,"votes":1,"question":"Android LocationManager usando getLastKnownLocation() no se obtiene valor","tab":"android-studio"}
+{"answers":1,"views":2,"votes":0,"question":"ERROR MOSTRANDO DATOS MySQL (ONLINE) EN LISTVIEW","tab":"android-studio"}
+{"answers":1,"views":3,"votes":0,"question":"Como mostrar una imagen cuando pasamos de activity en un ListView","tab":"android-studio"}
+{"answers":0,"views":1,"votes":0,"question":"\u00bfComo hacer filtro desde Edit text a mi recycler view, que carga los datos desde un Array list hasta el card View?","tab":"android-studio"}
+{"answers":0,"views":7,"votes":0,"question":"ACTION_FOUND no obtiene dispositivos","tab":"android-studio"}
+{"answers":0,"views":4,"votes":-1,"question":"\u00bfC\u00f3mo cambiar el Xfrom y el Xto de una animacion Anroid?","tab":"android-studio"}
+{"answers":0,"views":2,"votes":1,"question":"Error app:processDebugResources","tab":"android-studio"}
+{"answers":0,"views":3,"votes":1,"question":"Recuperar c\u00f3digo APK Android [duplicada]","tab":"android-studio"}
+{"answers":0,"views":1,"votes":-1,"question":"Facebook web android studio [en espera]","tab":"android-studio"}
+{"answers":0,"views":1,"votes":0,"question":"java.lang.String no lo convierte a JSONObject como lo puedo corregir?","tab":"android-studio"}
+{"answers":1,"views":4,"votes":0,"question":"\u00bfConoceis algun c\u00f3digo sencillo para encender la linterna del celular? Android Studio [cerrada]","tab":"android-studio"}
+{"answers":0,"views":6,"votes":2,"question":"Como reciclar imagenes","tab":"android-studio"}
+]
