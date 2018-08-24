@@ -1,0 +1,7 @@
+{
+  "name": "stackVisualization",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
